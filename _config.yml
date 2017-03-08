@@ -1,3 +1,16 @@
+layout_spectrum: 0.24348557248517944
+typography_spectrum: 0.26967453889050846
+color:
+  brandStrength: 0.6647328722534129
+  lightness: 0.7482569893191356
+  saturation: 0.397807997193667
+  rhythmicContrast: 0.6519079474663122
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Blog.Connect365
-layout_spectrum: 0.4775861157104373
-typography_spectrum: 0.04336069384589791
-color:
-  brandStrength: 0.7358665091451257
-  lightness: 0.4794207268860191
-  saturation: 0.07100858609192073
-  rhythmicContrast: 0.24650313542224467
-  brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
