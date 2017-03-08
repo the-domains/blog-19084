@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Blog
+name: Blog.Connect365
 layout_spectrum: 0.4775861157104373
 typography_spectrum: 0.04336069384589791
 color:
@@ -109,3 +109,5 @@ purpose:
   - type: external
     url: 'http://www.subscribepage.com/b8c7z2'
     label: Pretplati se
+analytics:
+  google: UA-19682937-18
