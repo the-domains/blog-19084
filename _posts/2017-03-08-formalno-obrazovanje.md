@@ -6,11 +6,12 @@ description: >-
   način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali
   jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više
   nitko ne može priuštiti.
-dateModified: '2017-03-08T12:31:14.843Z'
-datePublished: '2017-03-08T12:31:17.888Z'
+dateModified: '2017-03-08T12:35:14.047Z'
+datePublished: '2017-03-08T12:35:15.758Z'
 title: Kako Postati Stručnjak Za Internet Marketing
 author: []
-publisher: {}
+publisher:
+  name: Connect
 via: {}
 sourcePath: _posts/2017-03-08-formalno-obrazovanje.md
 hasPage: true
