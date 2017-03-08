@@ -6,9 +6,9 @@ description: >-
   način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali
   jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više
   nitko ne može priuštiti.
-dateModified: '2017-03-08T12:21:05.265Z'
-datePublished: '2017-03-08T12:21:06.521Z'
-title: ''
+dateModified: '2017-03-08T12:22:25.961Z'
+datePublished: '2017-03-08T12:22:26.976Z'
+title: Kako Postati Stručnjak Za Internet Marketing
 author: []
 publisher: {}
 via: {}
@@ -20,6 +20,7 @@ url: formalno-obrazovanje/index.html
 _type: Article
 
 ---
+# Kako Postati Stručnjak Za Internet Marketing
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/851bf788-cce5-44c3-b104-871a69d3c925.jpg)
 
 **N**ajveći problem s kojim sam se suočavao sve ove godine, nije nedostatak literature, nego upravo suprotno. Višak od kojega ne znate kako i na koji način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više nitko ne može priuštiti.
