@@ -105,3 +105,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e30b9-539a-4db7-b6ed-706e556c284a.png
 title: Pratite korisne informacije
 description: Ovo su tekstovi koje pišemo iz naše iskustva
+purpose:
+  - type: external
+    url: 'http://www.subscribepage.com/b8c7z2'
+    label: Pretplati se
