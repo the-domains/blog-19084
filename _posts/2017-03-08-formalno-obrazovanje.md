@@ -6,8 +6,8 @@ description: >-
   način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali
   jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više
   nitko ne može priuštiti.
-dateModified: '2017-03-08T12:22:25.961Z'
-datePublished: '2017-03-08T12:22:26.976Z'
+dateModified: '2017-03-08T12:31:14.843Z'
+datePublished: '2017-03-08T12:31:17.888Z'
 title: Kako Postati Stručnjak Za Internet Marketing
 author: []
 publisher: {}
@@ -20,6 +20,8 @@ url: formalno-obrazovanje/index.html
 _type: Article
 
 ---
+### 08/03/2017\.
+
 # Kako Postati Stručnjak Za Internet Marketing
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/851bf788-cce5-44c3-b104-871a69d3c925.jpg)
 
@@ -43,9 +45,9 @@ Na kraju krajeva vaše znanje morate uobličiti. Jako mnogo sam istraživao zadn
 
 Velika većina pokušava pronaći kraći put. I ja sam pokušavao, ali to jednostavno nije moguće. Pitanje je samo vašeg strpljenja i upornosti.
 
-## FORMALNO OBRAZOVANJE
+# FORMALNO OBRAZOVANJE
 
-### FAKULTETSKO OBRAZOVANJE
+## FAKULTETSKO OBRAZOVANJE
 
 Većina marketara dolazi sa završenim fakultetima nekog društvenog smjera, ali ne mora biti. Filozofija, jezici, pedagogija, novinarstvo...Nije nužno da to mora biti ekonomija ili marketing. Današnje marketari moraju poznavati stvari od fotografije, pisanja tekstova, društvenih mreža i mnogo drugih stvari ali znati se služiti i alatima koji se nude.
 
@@ -53,15 +55,15 @@ Većina marketara dolazi sa završenim fakultetima nekog društvenog smjera, ali
 
 Veliki problem današnjeg fakultetskog obrazovanja je što sadržaj ne prati potrebe tržišta i sporo reagiraju na tehnološke promjene.
 
-## NEFORMALNO OBRAZOVANJE
+# NEFORMALNO OBRAZOVANJE
 
-### JEDNOGODIŠNJA SPECIJALIZACIJA
+## JEDNOGODIŠNJA SPECIJALIZACIJA
 
 Jedna od ozbiljnijih ustanova koja nudi specijalizaciju na našim prostorima je [ITAcademy][0]. Imao sam priliku ovdje se usavršavati i moja iskustva su jako poziitivna. Ukupno 35 predmeta i stotine sati predavanja, testova, prezentacija...
 
 Imate nekoliko smjerova i možete izabrati prema svojim afinitetima. Velika prednost je što će te učiti od ljudi koji to sve primjenjuju u praksi, koji su vlasnici nekih agencija... za razliku od profesora na fakultetima koji vam u stvari prepričavaju knjige. Saznat će te stvari iz prve ruke.
 
-### KRATKE SPECIJALIZACIJE
+## KRATKE SPECIJALIZACIJE
 
 Ovakve vrste specijalizaciju su u neku ruku i dobre ali i loše. Traju do mjesec dana. Dobre su što stvarno ima odličnih i stručnih predavača, međutim loše su za sve one koji misle kako će za mjesec dana saznati sve tajne Internet marketinga i postati stručnjaci.
 
@@ -69,7 +71,7 @@ Ne zanosite se da postoji neka "tajna" koju će vam netko otkriti. Jednostavno m
 
 Vidi više: [www.ppcakademija.hr][1], [www.digitalmarketinginstitute.com][2]
 
-### SEMINARI, KONFERENCIJE...
+## SEMINARI, KONFERENCIJE...
 
 Zadnjih godina se stalno nude seminari (konferencije) u trajanju od 1-2 dana. I ovo je jako dobro, međutim ovdje nećete naučiti nego proširiti svoje postojeće znanje.
 
@@ -77,7 +79,7 @@ Zato je jako dobro da imate temelj za seminare. A to možete imati samo ako ste 
 
 Vidi više: [www.linksarajevo.ba][3], [www.apriori.ba][4], [www.branding.ba][5],...
 
-### ONLINE KURSEVI
+## ONLINE KURSEVI
 
 Postoji nekoliko adresa na kojima možete platiti Online kurseve i doći do jako dobrih informacija. Koristio sam neke i moja iskustva su pozitivna.
 
@@ -85,9 +87,9 @@ Lynda.com se plaća mjesčno ili godišnje kao i LinkEduTv. Udemy plaćate po ku
 
 Vidi više:[Udemy][6], [Linda][7], [LinkEduTv][8], [Ted][9]
 
-## VJEŠTINE
+# VJEŠTINE
 
-### FOTOGRAFIJA I VIDEO
+## FOTOGRAFIJA I VIDEO
 
 Možete li napraviti oglas na Google Adwordsu ili objaviti post na Facebooku ako ne znate osnove fotografije? Ako ne znate osnove onda zaboravite Internet marketing.
 
@@ -99,13 +101,13 @@ Vaš zadatak će biti svakodnevno objavljivanje fotografija i videa te komunicir
 
 Vidi više: [Udemy][6], [Linda][7], [LinkEduTv][8]
 
-### KREATIVNO PISANJE [(COPYWRITE)][10]
+## KREATIVNO PISANJE [(COPYWRITE)][10]
 
 Morate biti spremni pisati blog za kompaniju u koju radite. Objaviti kreativne postove i pisati tekstove, naslove, slogane, PR tekstove...je jedan od poslova koji će te morati poznavati. Kako naučiti pisati kreativne tekstova?
 
 U velikoj su prednosti oni koje vole čitati knjige. Obogaćivanje riječnika i smisao za pisanjem teksta jednim dijelom je i talent ali se može i naučiti ukoliko se potrudite.
 
-### GRAFIČKI I WEB DIZAJN
+## GRAFIČKI I WEB DIZAJN
 
 Poznavanje nekih osnova u smislu boja, kompozicije, kontrasta...pomoći će vam boljoj izvedbi svih vizaulnih detalja koje će te korisiti u marketingu. Poznavanje Indesigna nije presudno ali dobro bi vam došlo.
 
@@ -113,7 +115,7 @@ Kako nastaju interaktivni oglasi, koliko je potrebno vremenena da se izrade, tko
 
 Vidi više: [Udemy][6], [Linda][7], [LinkEduTv][8]
 
-### ALATI I PLATFORME ZA OGLAŠAVANJE
+## ALATI I PLATFORME ZA OGLAŠAVANJE
 
 Najpoznatija platforma za Internet oglašavanje je Adwords koju je pokrenuo Google prije desetak godina. Postoji PRIKAZIVAČKA I PRETRAŽIVAČKA MREŽA na Awordsima.
 
@@ -123,9 +125,9 @@ Googlov pretraživač je svima poznat i koristi se u 90% slučajeva. Ukucavanjem
 
 Sve informacije i literaturu možete naći [ovdje.][11] Za Facebook preuzmite [ovdje][12] brošuru.
 
-## LITERATURA
+# LITERATURA
 
-### ČASOPISI
+## ČASOPISI
 
 Ako želite provjeriti je li netko stručan i ozbiljan u svome poslu, priupitajte ga samo je li pretplaćen na neku stručnu literaturu i što od literature redovito prati.
 
@@ -135,7 +137,7 @@ Evo vam neke linkove časpisa na koje sam pretplaćen:
 
 [www.digitalmarketingtools.com][13], [www.contentmarketingeducation.com][14], [B2C Marketing Magazine][15]
 
-### KNJIGE
+## KNJIGE
 
 Postoji jako mnogo knjiga na temu internet oglašavanja. Ali kao što sam rekao da se mnoge stvari preklapaju, tako da će i literatura morati biti svestranija.
 
@@ -147,7 +149,7 @@ Ove knjige vrijedi imati kod sebe:
 
 [Designing brand identity][16], [Digital Business and E-Commerce Management][17], [Digital Marketing][18], [The best damn web marketing][19], [Universal Principles of Design....][20]
 
-### BLOGOVI
+## BLOGOVI
 
 Imate jako mnogo ozbiljnih blogera koji na profesionalan način obrađuju ovu tematika. Svoj spisak sam sveo na nekoliko njih koje pratim i koji mi donose korisne informacije.
 
@@ -157,13 +159,13 @@ Blogeri od kojih će te saznati jako mnogo:
 
 [Dragan Varagić][21], [Mario Pilar][22], [Istok Pavlović][23], [Željko Riha][24], [Dave Chaffey][25] (jedan od najboljih svjetskih stručnjaka),
 
-### WEB PORTALI
+## WEB PORTALI
 
 Nebrojeno mnogo portala vam je na raspolaganju. ovo su samo neki specijaliizirani za internet marketing. Međutim, pronađite i druge vezane za opću informiranost. Jer kao što sam i naveo, potrebno je poznavati jako mnogo različitih stvari koje će te povezati u jednu cijelinu.
 
 [Netokracija][26], [Smart In Sights][27], [Search engine journal][28], [E-consultancy][29]
 
-### PRAKSA
+## PRAKSA
 
 Jeste li spremni raditi besplatno kako bi nešto naučili? Ako niste, onda...teško će te naučiti. Ja sam na početku, oglasne kampanje radio potpuno besplatno samo kako bih nešto naučio i testirao.
 
@@ -181,7 +183,7 @@ Razmjenjujte svoje znanje s drugima. Jer u konačnici znanje je vaš proizvod ko
 
 ---
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfa57663-b41c-4dcb-892a-d7b95ec2ce5f.jpg)
+
 
 [0]: http://www.it-akademija.com/it-business-department
 [1]: http://ppcakademija.hr/
