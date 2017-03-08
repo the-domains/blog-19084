@@ -1,4 +1,3 @@
-layout_spectrum: 0.24348557248517944
 typography_spectrum: 0.26967453889050846
 color:
   brandStrength: 0.6647328722534129
@@ -11,6 +10,14 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+github: true
+layout_spectrum: 0.24348557248517944
+analytics:
+  google: UA-19682937-18
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e30b9-539a-4db7-b6ed-706e556c284a.png
+name: Blog.Connect365
+url: 'http://blog.connect365.online'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +25,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Blog.Connect365
+navigation:
+  - name: Home
+    url: 'http://connect365.online/'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b0cb3d-2fd0-41dd-81b8-75cf0bfadbb6.png
+title: Pratite korisne informacije
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -29,16 +42,8 @@ content:
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      author:
-        - name: CONNECT/Tržišne komunikacije
-          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
-          avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: youtu.be
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
       keywords:
         - naslovna
         - strana
@@ -50,8 +55,13 @@ content:
         - svet
         - mori
         - rouzin
-      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
-      inLanguage: en
+      related: []
+      author:
+        - name: CONNECT/Tržišne komunikacije
+          url: 'https://www.youtube.com/channel/UCt4YJ5o5gdsfSgRadQ_o05Q'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Naslovna
       '@type': VideoObject
       app_links:
         - url: 'vnd.youtube://www.youtube.com/watch?v=Ovj3gZ-DwcU&feature=applinks'
@@ -90,24 +100,18 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://youtu.be/Ovj3gZ-DwcU'
-      title: Naslovna
-      datePublished: null
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: youtu.be
+      description: Uploaded by CONNECT/Tržišne komunikacije on 2017-03-08.
+      inLanguage: en
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
-url: 'http://blog.connect365.online'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b0cb3d-2fd0-41dd-81b8-75cf0bfadbb6.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e30b9-539a-4db7-b6ed-706e556c284a.png
-title: Pratite korisne informacije
 description: Ovo su tekstovi koje pišemo iz naše iskustva
 purpose:
   - type: external
     url: 'http://www.subscribepage.com/b8c7z2'
     label: Pretplati se
-analytics:
-  google: UA-19682937-18
