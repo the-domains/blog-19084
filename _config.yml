@@ -1,0 +1,28 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Blog
+layout_spectrum: 0.4775861157104373
+typography_spectrum: 0.04336069384589791
+color:
+  brandStrength: 0.7358665091451257
+  lightness: 0.4794207268860191
+  saturation: 0.07100858609192073
+  rhythmicContrast: 0.24650313542224467
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+content: []
+github: true
+url: 'http://blog.connect365.online'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1b0cb3d-2fd0-41dd-81b8-75cf0bfadbb6.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e30b9-539a-4db7-b6ed-706e556c284a.png
