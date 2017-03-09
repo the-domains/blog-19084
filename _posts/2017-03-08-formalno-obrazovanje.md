@@ -6,8 +6,8 @@ description: >-
   način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali
   jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više
   nitko ne može priuštiti.
-dateModified: '2017-03-08T12:35:14.047Z'
-datePublished: '2017-03-08T12:35:15.758Z'
+dateModified: '2017-03-09T09:02:52.843Z'
+datePublished: '2017-03-09T09:02:53.564Z'
 title: Kako Postati Stručnjak Za Internet Marketing
 author: []
 publisher:
@@ -30,20 +30,15 @@ _type: Article
 
 ---
 
-Danas ako se želite baviti Internet marketingom, morate biti svestrani. Jako mnogo stvari se preklapa i morate ih jednostavno poznavati. Kako i gdje to sve naučiti? Fakulteti nisu osposobljeni za Internet marketing. Državni fakulteti su spori i ne mogu pratiti promjene koje su stalne a osim toga su i predetaljni u nepotrebnim stvarima.
-
-Profesori su svedeni na "prepričavače" knjiga. Privatni fakulteti mogu donekle pratiti promjene ali su površni. Stoga vam ostaje da to sve dopunite neformalnim obrazovanjem koje vam je na dohvat ruke.
-
-Jer na tržištu rada više nitko nema vremena i interesa da vas obučava. Jednostavno morate prihvatiti činjenicu kako morate doći i već sutra donositi profit vlasnicima. A to znači da morate znati raditi bez obzira na vašu diplomu.
-
+Danas ako se želite baviti Internet marketingom, morate biti svestrani. Jako mnogo stvari se preklapa i morate ih jednostavno poznavati. Kako i gdje to sve naučiti? Fakulteti nisu osposobljeni za Internet marketing. Državni fakulteti su spori i ne mogu pratiti promjene koje su stalne a osim toga su i predetaljni u nepotrebnim stvarima.  
+Profesori su svedeni na "prepričavače" knjiga. Privatni fakulteti mogu donekle pratiti promjene ali su površni. Stoga vam ostaje da to sve dopunite neformalnim obrazovanjem koje vam je na dohvat ruke.  
+Jer na tržištu rada više nitko nema vremena i interesa da vas obučava. Jednostavno morate prihvatiti činjenicu kako morate doći i već sutra donositi profit vlasnicima. A to znači da morate znati raditi bez obzira na vašu diplomu.  
 Druga stvar je što mi pripadamo malom tržištu i nemoguće je priuštiti tvrtkama da zaposli nekoliko ljudi koji će raditi samo marketing. Stoga su nekada prinuđeni na all-in-one rješenja.
 
 **Ali što odabrati i kako? Jer mnogo je literature i šta je od toga korisno.**
 
-Privatne firme sve više imaju potrebu upošljavanja marketinških stručnjaka, i to je prilika za mnoge.
-
-Na kraju krajeva vaše znanje morate uobličiti. Jako mnogo sam istraživao zadnjih godina, čitao, učio...i evo nekih mojih zapažanja i savjeta. Pa ako se želite baviti Internet marketingom, znajte da to nije završetak jednodevnog kursa, kao i da ne postoji nikakva tajna koju će vam netko otkriti kako da lako vodite kampanje.
-
+Privatne firme sve više imaju potrebu upošljavanja marketinških stručnjaka, i to je prilika za mnoge.  
+Na kraju krajeva vaše znanje morate uobličiti. Jako mnogo sam istraživao zadnjih godina, čitao, učio...i evo nekih mojih zapažanja i savjeta. Pa ako se želite baviti Internet marketingom, znajte da to nije završetak jednodevnog kursa, kao i da ne postoji nikakva tajna koju će vam netko otkriti kako da lako vodite kampanje.  
 Velika većina pokušava pronaći kraći put. I ja sam pokušavao, ali to jednostavno nije moguće. Pitanje je samo vašeg strpljenja i upornosti.
 
 # FORMALNO OBRAZOVANJE
