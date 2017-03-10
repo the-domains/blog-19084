@@ -35,6 +35,9 @@ navigation:
   - name: Kontakt
     url: 'http://connect365.online/o-nama'
     type: external
+  - name: Portfolio
+    url: 'http://portfolio.connect365.online/'
+    type: external
 favicon: null
 title: Pratite korisne informacije
 content:
