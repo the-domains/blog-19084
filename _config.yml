@@ -16,7 +16,7 @@ analytics:
   google: UA-19682937-18
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e30b9-539a-4db7-b6ed-706e556c284a.png
-name: Blog.Connect365
+name: blog.connect365
 url: 'http://blog.connect365.online'
 colors:
   brandColors:
@@ -31,6 +31,9 @@ navigation:
     type: external
   - name: Kontakt
     url: 'http://connect365.online/o-nama'
+    type: external
+  - name: Usluge
+    url: 'http://usluge.connect365.online/'
     type: external
 favicon: null
 title: Pratite korisne informacije
