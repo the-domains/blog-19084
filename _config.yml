@@ -16,7 +16,7 @@ analytics:
   google: UA-19682937-18
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d80e30b9-539a-4db7-b6ed-706e556c284a.png
-name: blog.connect365
+name: Agencija Connect Blog
 url: 'http://blog.connect365.online'
 colors:
   brandColors:
@@ -34,9 +34,6 @@ navigation:
     type: external
   - name: Portfolio
     url: 'http://portfolio.connect365.online/'
-    type: external
-  - name: Blog
-    url: 'http://blog.connect365.online/'
     type: external
   - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
