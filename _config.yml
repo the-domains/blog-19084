@@ -29,11 +29,11 @@ navigation:
   - name: Home
     url: 'http://connect365.online/'
     type: external
-  - name: Kontakt
-    url: 'http://connect365.online/o-nama'
-    type: external
   - name: Usluge
     url: 'http://usluge.connect365.online/'
+    type: external
+  - name: Kontakt
+    url: 'http://connect365.online/o-nama'
     type: external
 favicon: null
 title: Pratite korisne informacije
