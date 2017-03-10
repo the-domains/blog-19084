@@ -42,7 +42,7 @@ navigation:
     url: 'http://connect365.online/o-nama'
     type: external
 favicon: null
-title: Pratite korisne informacije
+title: Blog tekstovi i naša iskustva
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
