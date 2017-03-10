@@ -38,6 +38,9 @@ navigation:
   - name: Kontakt
     url: 'http://connect365.online/o-nama'
     type: external
+  - name: Blog
+    url: 'http://blog.connect365.online/'
+    type: external
 favicon: null
 title: Pratite korisne informacije
 content:
