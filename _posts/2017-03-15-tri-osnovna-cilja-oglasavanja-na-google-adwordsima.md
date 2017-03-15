@@ -7,8 +7,8 @@ description: >-
   naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako
   doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako
   vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst.
-dateModified: '2017-03-15T13:51:51.094Z'
-datePublished: '2017-03-15T13:51:51.574Z'
+dateModified: '2017-03-15T13:52:35.781Z'
+datePublished: '2017-03-15T13:52:36.715Z'
 title: Tri Osnovna Cilja Oglašavanja na Google AdWordsima
 author: []
 publisher:
@@ -79,3 +79,6 @@ _Oglasi koji bi trebali povećati prodaju. Konkretno reklamiraju cijenu i proizv
 ### ZAKLJUČAK
 
 Ovo vam pokazuje kako prodaja ne mora uvijek biti cilj oglašavanja. Sve ovisi o vašoj strategiji poslovanja. Kao što smo gore i naveli, cilj može biti posjeta vašim stranicama. Često puta morate klijente i educirati prije mu nešto prodate. Druga strategija je povećanje svjesnosti branda. Važno je da ste uvijek tu negdje. Da vas ljudi primjete i da ih podsjetite kako postojite. Jer znate onu poslovicu: "Ni majka neće uzeti dijete dok ne zaplače". Naravno vi nećete plakati vi će te se oglasiti i promovirati brand. I treća je opcija povećanje prodaje ili konverzija. Kod ovih oglasa konkretno se reklamira proizvod i klik koji vodi direktno na prodaju. Sve ove akcije u konačnici vode jednom cilju a to je prodaja i profitabilnost samo na različite načine.
+[Pretplati se][0]
+
+[0]: http://www.subscribepage.com/b8c7z2
