@@ -1,8 +1,14 @@
 ---
 inFeed: true
-description: "Slaže te li\_se kako\_je uvijek cilj oglašavanja, povećanje zarade. \_Međutim nekada se do toga cilja dolazi na razne načine. Nekada je to malo kraći a nekada duži put. Pa tako kada pitam klijente što je cilj njihove kampanje, naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst."
-dateModified: '2017-03-15T13:01:15.896Z'
-datePublished: '2017-03-15T13:01:16.016Z'
+description: >-
+  Slaže te li se kako je uvijek cilj oglašavanja, povećanje zarade. Međutim
+  nekada se do toga cilja dolazi na razne načine. Nekada je to malo kraći a
+  nekada duži put. Pa tako kada pitam klijente što je cilj njihove kampanje,
+  naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako
+  doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako
+  vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst.
+dateModified: '2017-03-15T13:07:08.440Z'
+datePublished: '2017-03-15T13:07:09.080Z'
 title: Tri Osnovna Cilja Oglašavanja na Google AdWordsima
 author: []
 publisher:
@@ -16,12 +22,12 @@ url: tri-osnovna-cilja-oglasavanja-na-google-adwordsima/index.html
 _type: Article
 
 ---
-### 20/12/2016
+### 05/01/2016\.
 
 # Tri Osnovna Cilja Oglašavanja na Google AdWordsima
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b7c2d59-2029-4094-8b96-4df1fd8db53d.jpg)
 
-Slaže te li se kako je uvijek cilj oglašavanja, povećanje zarade.  Međutim nekada se do toga cilja dolazi na razne načine. Nekada je to malo kraći a nekada duži put. Pa tako kada pitam klijente što je cilj njihove kampanje, naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst.
+Slaže te li se kako je uvijek cilj oglašavanja, povećanje zarade. Međutim nekada se do toga cilja dolazi na razne načine. Nekada je to malo kraći a nekada duži put. Pa tako kada pitam klijente što je cilj njihove kampanje, naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst.
 
 ---
 
@@ -50,7 +56,7 @@ Ovakve kampanje ste mogli vidjeti bezbroj puta i u off-line oglašavanju. Koliko
 
 #### KAKO OVO "RADI" U ON LINE OGLASIMA
 
-Vrlo jednostavno, cilj je da oglas vidi što više ljudi. Mjerimo vCPM (vidljivi broj prikazivanja) Znači, **ovdje se fokusiramo na prikazivanja** a ne na klikove koji vode do stranice. I u ovom slučaju plaćamo cijenu po broju prikazivanja. Googlova mjerna jedinica je 1000 prikazivanja.  Ovu vrstu oglašavanja možemo korisiti npr. za oglašavanje nekog koncerta. Ako na oglasu imamo sve podatke tko pjeva i gdje, za korisnike nije ni bitno da moraju klinuti na oglas. Oni su poruku primili i bez posjete odredišne stranice. Naš cilj je da oglas vidi što više ljudi. Isto to se može primjeniti i na političke kampanje.
+Vrlo jednostavno, cilj je da oglas vidi što više ljudi. Mjerimo vCPM (vidljivi broj prikazivanja) Znači, **ovdje se fokusiramo na prikazivanja** a ne na klikove koji vode do stranice. I u ovom slučaju plaćamo cijenu po broju prikazivanja. Googlova mjerna jedinica je 1000 prikazivanja. Ovu vrstu oglašavanja možemo korisiti npr. za oglašavanje nekog koncerta. Ako na oglasu imamo sve podatke tko pjeva i gdje, za korisnike nije ni bitno da moraju klinuti na oglas. Oni su poruku primili i bez posjete odredišne stranice. Naš cilj je da oglas vidi što više ljudi. Isto to se može primjeniti i na političke kampanje.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e672d18c-1a05-4e07-81b2-1bc4d2246adb.jpg)
 
 _Povećanje svjesnosti branda ili najave događaja. Ovakvi oglasi imaju za cilj prikazati se što više puta. Kako bi saznali sve detalje ne morate kliknuti na oglas nego ga možete jednostavno vidjeti i pročitati. Ovo je slično masovnom dijeljenju letaka u ofline oglašavanju._
