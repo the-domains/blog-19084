@@ -6,8 +6,8 @@ description: >-
   problem, onda se upitajte zašto npr. moja agencija Connect, nema barem 10 web
   stranica za trgovinu. Imamo sve resurse kako bi to napravili, dizjnera,
   programera, marketing, znanje…
-dateModified: '2017-03-15T13:57:52.161Z'
-datePublished: '2017-03-15T13:57:52.606Z'
+dateModified: '2017-03-15T15:20:58.960Z'
+datePublished: '2017-03-15T15:20:59.513Z'
 title: Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
 author: []
 publisher:
