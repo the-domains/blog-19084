@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "Youtube je platforma za postavljanje video sadržaja i Google ga je kupio prije desetak \_godina. Poslije\_Google pretraživača on je najposjećenija stranica na svijetu. Svake minute se uploada 100 sati videa. Nevjerojatna količina materijala. Ne treba spominjati kako današnja generacija\_provodi veliki dio vremena na Youtube. Ogroman izvor zabave ali i znanja."
-dateModified: '2017-03-15T13:57:52.161Z'
-datePublished: '2017-03-15T13:57:52.612Z'
+dateModified: '2017-03-15T13:58:27.673Z'
+datePublished: '2017-03-15T13:58:27.828Z'
 title: Video Oglasi će Povećati Promet na Vašim Web Stranicama
 author: []
 publisher:
