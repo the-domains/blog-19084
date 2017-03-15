@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 10/01/2017.
-dateModified: '2017-03-15T12:36:44.431Z'
-datePublished: '2017-03-15T12:36:45.375Z'
+dateModified: '2017-03-15T12:36:55.654Z'
+datePublished: '2017-03-15T12:36:56.283Z'
 title: Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
 author: []
 publisher:
