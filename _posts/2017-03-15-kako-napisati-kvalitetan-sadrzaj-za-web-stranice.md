@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: "Ja znam da svi mi volimo svoje firme, uložili smo u njih rasli zajedno, međutim to naše kupce ne interesira. Najveća greška koju moji klijenti prave je da pisajući tekst u stvari pišu hvalospjeve o sebi. Moram vas razočarati ali to nikoga ne zanima. Ljude zanima i postavljaju samo jednu pitanja: Da li ćete\_mi rješiti problem kojeg imam?"
-dateModified: '2017-03-15T13:01:15.896Z'
-datePublished: '2017-03-15T13:01:16.014Z'
+dateModified: '2017-03-15T13:00:54.723Z'
+datePublished: '2017-03-15T13:00:56.249Z'
 title: Kako Napisati Kvalitetan Sadržaj za Web Stranice
 author: []
 publisher:
   name: Connect Blog
 via: {}
 hasPage: true
-sourcePath: _posts/2017-03-15-kako-napisati-kvalitetan-sadrzaj-za-web-stranice.md
 starred: false
 datePublishedOriginal: '2017-03-15T13:00:56.249Z'
+sourcePath: _posts/2017-03-15-kako-napisati-kvalitetan-sadrzaj-za-web-stranice.md
 url: kako-napisati-kvalitetan-sadrzaj-za-web-stranice/index.html
 _type: Article
 
