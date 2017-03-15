@@ -1,13 +1,8 @@
 ---
 inFeed: true
-description: >-
-  Ako mislite kako je najveći problem napraviti web stranicu za trgovinu, tj.
-  dizajnirati je i programirati, onda se varate. Ako mislite da je to jedini
-  problem, onda se upitajte zašto npr. moja agencija Connect, nema barem 10 web
-  stranica za trgovinu. Imamo sve resurse kako bi to napravili, dizjnera,
-  programera, marketing, znanje…
-dateModified: '2017-03-15T12:35:13.703Z'
-datePublished: '2017-03-15T12:35:17.056Z'
+description: 10/01/2017.
+dateModified: '2017-03-15T12:36:44.431Z'
+datePublished: '2017-03-15T12:36:45.375Z'
 title: Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
 author: []
 publisher:
@@ -22,6 +17,7 @@ url: deset-stvari-koje-morate-rjesiti-prije-pokretanja-web-trgovi/index.html
 _type: Article
 
 ---
+10/01/2017\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6c2bef4-7f59-44c3-8e9a-1c32d6343f4d.jpg)
 
 # Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
