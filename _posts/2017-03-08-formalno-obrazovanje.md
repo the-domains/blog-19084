@@ -6,8 +6,8 @@ description: >-
   način odabrati ono najbolje. Internet jeste donio pristup informacijama, ali
   jako puno je nekorisnih stvari i gubljenje vremena na čitanje besmislica više
   nitko ne može priuštiti.
-dateModified: '2017-03-15T12:38:58.449Z'
-datePublished: '2017-03-15T12:38:58.616Z'
+dateModified: '2017-03-15T13:51:03.925Z'
+datePublished: '2017-03-15T13:51:04.722Z'
 title: Kako Postati Stručnjak Za Internet Marketing
 author: []
 publisher:
@@ -173,10 +173,7 @@ Digitalni marketing nikada nećete do kraja naučiti jer se stvari brzo mijenjaj
 I za kraj, ne postoji nikakva prečica. Nemoguće je doći iz 3\. razreda u 8\. Jednostavno potrebno vam je vrijeme. Budite strpljivi i izgrađujte svoje znanje i vještine na jedan smislen način. Oslobodite se ega i budite timski igrač.
 
 Razmjenjujte svoje znanje s drugima. Jer u konačnici znanje je vaš proizvod koji će te prodavati. Tržište sve više ima potrebu za takvim ljudima.
-
----
-
-
+[Pretplati se][30]
 
 [0]: http://www.it-akademija.com/it-business-department
 [1]: http://ppcakademija.hr/
@@ -208,3 +205,4 @@ Razmjenjujte svoje znanje s drugima. Jer u konačnici znanje je vaš proizvod ko
 [27]: http://www.smartinsights.com/
 [28]: http://search%20engine%20journal/
 [29]: https://econsultancy.com/
+[30]: http://www.subscribepage.com/b8c7z2
