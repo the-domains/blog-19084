@@ -1,9 +1,14 @@
 ---
 inFeed: true
-description: Kako Prodati Rupu na Zidu?
-dateModified: '2017-03-15T12:23:17.121Z'
-datePublished: '2017-03-15T12:23:18.385Z'
-title: 20/01/2017.
+description: >-
+  Prijek par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio
+  oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4
+  format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
+  tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
+  pričao. O svojoj firmi, o proizvodu, o nagradama…
+dateModified: '2017-03-15T12:24:19.503Z'
+datePublished: '2017-03-15T12:24:21.944Z'
+title: Kako Prodati Rupu na Zidu?
 author: []
 publisher:
   name: Connect Blog
@@ -19,7 +24,7 @@ _type: Article
 ### 20/01/2017\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/586e7336-a0db-4594-873a-14bf26b4763b.jpg)
 
-Kako Prodati Rupu na Zidu?
+# Kako Prodati Rupu na Zidu?
 
 Prijek par mjeseci, jedan od klijenata mi je poslao jedan tekst koji je bio oglasnog karaktera. Bio je to relativno kratak sadržaj, možda na jedan A4 format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi pričao. O svojoj firmi, o proizvodu, o nagradama...
 
