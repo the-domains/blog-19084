@@ -1,20 +1,22 @@
 ---
 inFeed: true
 description: Kako Prodati Rupu na Zidu?
-dateModified: '2017-03-15T12:20:59.155Z'
-datePublished: '2017-03-15T12:21:00.391Z'
-title: ''
+dateModified: '2017-03-15T12:23:17.121Z'
+datePublished: '2017-03-15T12:23:18.385Z'
+title: 20/01/2017.
 author: []
-publisher: {}
+publisher:
+  name: Connect Blog
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-kako-prodati-rupu-na-zidu.md
 starred: false
 datePublishedOriginal: '2017-03-15T12:21:00.391Z'
-sourcePath: _posts/2017-03-15-kako-prodati-rupu-na-zidu.md
 url: kako-prodati-rupu-na-zidu/index.html
 _type: Article
 
 ---
+### 20/01/2017\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/586e7336-a0db-4594-873a-14bf26b4763b.jpg)
 
 Kako Prodati Rupu na Zidu?
@@ -27,7 +29,7 @@ Moram vam reći jednu istinu, ljudi koji žele s vama surađivati, njih to ne br
 
 Ljudi žele kupiti ono što njima donosi korist i samo o tome razmišljaju. Jer zapamtite, kupci su najvažniji sami sebi. Vi prodajete BENEFITE proizvoda, tj. korist koju ja dobijam. I zato vratimo se na naslov ovoga Bloga, ljudi ne kupuju bušilicu nego kupuju rupu. To je korist koja mu donosi bušilica. To je stara priča i to je odgovor na pitanje iz naslova.
 
-Znam da su mnogi uložili u svoje firme, tehnologiju, zgrade... ogromne novce, ali ljude to ne zanima. Stvarno ih ne zanima. Dakle savjet je da dobro razmislite šta je to što kupcu donosi korist. Je li vam ovaj tekst koji sada čitate donosi neku korist? Jeste li možda nešto novo saznali?  Ili ga čitate zbog mojih mogućnosti, referenci ili zato što radim na Macu, ili... Baš vas briga za sve to. Vi će te nastaviti čitati samo ako imate korist od toga. I to je savim ok. Moj je posao a i vaš da to prihvatite i tako se ponašate prema kupcima. Da sam ja pričao o sebi i svojoj firmi, koga to zanima. Zato sam ponudio neki tekst gdje će netko imati koristi od toga. To je suština ove priče.
+Znam da su mnogi uložili u svoje firme, tehnologiju, zgrade... ogromne novce, ali ljude to ne zanima. Stvarno ih ne zanima. Dakle savjet je da dobro razmislite šta je to što kupcu donosi korist. Je li vam ovaj tekst koji sada čitate donosi neku korist? Jeste li možda nešto novo saznali? Ili ga čitate zbog mojih mogućnosti, referenci ili zato što radim na Macu, ili... Baš vas briga za sve to. Vi će te nastaviti čitati samo ako imate korist od toga. I to je savim ok. Moj je posao a i vaš da to prihvatite i tako se ponašate prema kupcima. Da sam ja pričao o sebi i svojoj firmi, koga to zanima. Zato sam ponudio neki tekst gdje će netko imati koristi od toga. To je suština ove priče.
 
 Ako stavite priču kako bušilica ima 600 obrtaja, kako je teška 0,8 kg, kako je njena cijena 165 KM...ništa mi ne znači. Ako mi kažete da je dovoljne snage da buši betonske zidove, da je lakša u odnosu na konkurenicju 20% , da je lako upravljati s njom i kako imate mogućnost platiti na rate...je već druga priča. Tu već mogu naći neke benefite.
 
@@ -42,7 +44,7 @@ Kada ste zadnji put kliknuli na oglas koji reklamira Televizore? Imate dakle gom
 Prvo fokusiratjte se na problem koji ima vaš klijent. Pronađite problem i prezentirajte ga. Evo kako bi možda oglas trebao izgledati.  
 "Dosadilo vam je posuđivati bušilicu od susjeda". (uz sliku ljutog komšije)...ili,  
 "Za savršene rupe u zidu. Bez kasnijeg gletovanja i popravki zidova." (slika uprljanog stana radi samo jedne rupe/Ovo sam doživio:)...ili,  
-"Žena vam dosađuje kako morate postaviti sliku na zid." (slika žene 
+"Žena vam dosađuje kako morate postaviti sliku na zid." (slika žene
 
 U odgovoru ponudite rješenje:  
 "Ne ljutite susjede. Mi imamo rješenje. Naše bušilice su lagane, pouzdane i sigurne. Sa graničnikom za dubinu rupe.  
