@@ -6,8 +6,8 @@ description: >-
   je da pisajući tekst u stvari pišu hvalospjeve o sebi. Moram vas razočarati
   ali to nikoga ne zanima. Ljude zanima i postavljaju samo jednu pitanja: Da li
   ćete mi rješiti problem kojeg imam?
-dateModified: '2017-03-15T13:51:51.094Z'
-datePublished: '2017-03-15T13:51:51.523Z'
+dateModified: '2017-03-15T13:52:59.553Z'
+datePublished: '2017-03-15T13:53:01.606Z'
 title: Kako Napisati Kvalitetan Sadržaj za Web Stranice
 author: []
 publisher:
@@ -73,6 +73,8 @@ Iduća godina 2017\. je definitivno godina u kojoj će video dominirati. Bilo kr
 ### SAVJET ZA KRAJ
 
 Prije nego krenete pisati tekstove vrlo je važno znati da ljude u principu vi uopće ne interesirate. Ljudi s vama posluju jer žele rješiti neki problem. I onaj tko čita vaše web stranice samo pokušava naći dio koji o tom govori. O RJEŠENJU PROBLEMA. Ne zanimaju ih vaše nagrade, uspjesi, prihodi...možda se neki neće složiti sa mnom ali to je istina. Vaši proizvodi ili vaša usluga su rješenje nečijih problema i u tom kontekstu pišite tekstove. Ne mislite na sebe nego stvari promatrajte kao kupac. I još jedan savjet. Svakako ne pravite stranice da impresionirate svoje konkurente. Vi ste otvorili firmu za vaše klijente.
+[Pretplati se][2]
 
 [0]: https://adwords.google.hr/KeywordPlanner
 [1]: http://novisvijet.com/
+[2]: http://www.subscribepage.com/b8c7z2
