@@ -5,8 +5,8 @@ description: >-
   toliko koliko se pričalo o tome. I ne toliko za ljude iz prodaje i marketinga.
   Postoje i druge segmentacije koje vam mogu pomoći u poslovanju a čiji se
   podaci nalaze na zadnjem popisu stanovništva.
-dateModified: '2017-03-15T15:13:35.222Z'
-datePublished: '2017-03-15T15:13:35.358Z'
+dateModified: '2017-03-15T15:17:32.694Z'
+datePublished: '2017-03-15T15:17:33.276Z'
 title: 'Što prodavati Srbima, Hrvatima i Bošnjacima'
 author: []
 publisher:
@@ -71,10 +71,12 @@ Veliki broj podataka o načinu stanovanja, površini, broju zgrada...Nevjerojatn
 
 Saznajte podatke o jeziku. Koliko se ljudi izjasnilo i kako. Izdavači mogu računati na potencijal tržišta, koje knjige i koliko prevoditi na određene jezike.
 
-Popis stanovništva prema nacionalnosti je pa skoro nebitan u prodaji i promociji.  Želim vas potaknuti kako bi koristili ove podatke. U poslovanju treba ostaviti jako malo mjesta intuiciji, a okrenuti se podacima. Postoje mnoge metode statisičkih istraživanja i predviđanja trendova koje će vam korisiti u poslovanju. Mogućnosti je jako puno, iskoristite to.
+Popis stanovništva prema nacionalnosti je pa skoro nebitan u prodaji i promociji. Želim vas potaknuti kako bi koristili ove podatke. U poslovanju treba ostaviti jako malo mjesta intuiciji, a okrenuti se podacima. Postoje mnoge metode statisičkih istraživanja i predviđanja trendova koje će vam korisiti u poslovanju. Mogućnosti je jako puno, iskoristite to.
 
 Međutim, segmentiranje prema demografiji polako postaje nebitno. Danas se sve više tržište segmentira prema navikama i potrebama kupaca. Nove tehnologije omogućavaju individualni pristup svakom kupcu. O ovome u jednom od slijedećih tekstova.
 
 Statističke podatke popisa možete vidjeti[ovdje.][0]
+[Pretplati se][1]
 
 [0]: http://www.popis2013.ba/popis2013/doc/Popis2013prvoIzdanje.pdf
+[1]: http://www.subscribepage.com/b8c7z2
