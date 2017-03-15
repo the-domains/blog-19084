@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: "Idealno jutro jednoga manadžera bilo bi ujutro doći\_na posao i pritisnuti jedan ENTER i saznati\_kakvo je stanje na računu,\_i pritisnuti\_drugi put ENTER i vidi šta tko radi u firmi. Je li to moguće? Naravno da jeste. Potrebno je samo usvojiti određene promjene u radu i obučiti ljude."
-dateModified: '2017-03-15T13:40:34.317Z'
-datePublished: '2017-03-15T13:40:35.114Z'
+dateModified: '2017-03-15T13:40:52.089Z'
+datePublished: '2017-03-15T13:40:52.386Z'
 title: Kako CRM Može Unaprijediti Vaše Odnose s Klijentima
 author: []
 publisher:
   name: Connect Blog
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-kako-crm-moze-unaprijediti-vase-odnose-s-klijentima.md
 starred: false
 datePublishedOriginal: '2017-03-15T13:40:35.114Z'
-sourcePath: _posts/2017-03-15-kako-crm-moze-unaprijediti-vase-odnose-s-klijentima.md
 url: kako-crm-moze-unaprijediti-vase-odnose-s-klijentima/index.html
 _type: Article
 
