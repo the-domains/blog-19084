@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: "Youtube je platforma za postavljanje video sadržaja i Google ga je kupio prije desetak \_godina. Poslije\_Google pretraživača on je najposjećenija stranica na svijetu. Svake minute se uploada 100 sati videa. Nevjerojatna količina materijala. Ne treba spominjati kako današnja generacija\_provodi veliki dio vremena na Youtube. Ogroman izvor zabave ali i znanja."
-dateModified: '2017-03-15T13:17:06.137Z'
-datePublished: '2017-03-15T13:17:06.935Z'
+dateModified: '2017-03-15T13:17:25.926Z'
+datePublished: '2017-03-15T13:17:26.078Z'
 title: Video Oglasi će Povećati Promet na Vašim Web Stranicama
 author: []
 publisher:
   name: Connect Blog
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-video-oglasi-ce-povecati-promet-na-vasim-web-stranicama.md
 starred: false
 datePublishedOriginal: '2017-03-15T13:17:06.935Z'
-sourcePath: _posts/2017-03-15-video-oglasi-ce-povecati-promet-na-vasim-web-stranicama.md
 url: video-oglasi-ce-povecati-promet-na-vasim-web-stranicama/index.html
 _type: Article
 
