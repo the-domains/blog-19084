@@ -1,8 +1,12 @@
 ---
 inFeed: true
-description: "Idealno jutro jednoga manadžera bilo bi ujutro doći\_na posao i pritisnuti jedan ENTER i saznati\_kakvo je stanje na računu,\_i pritisnuti\_drugi put ENTER i vidi šta tko radi u firmi. Je li to moguće? Naravno da jeste. Potrebno je samo usvojiti određene promjene u radu i obučiti ljude."
-dateModified: '2017-03-15T13:40:52.089Z'
-datePublished: '2017-03-15T13:40:52.386Z'
+description: >-
+  Idealno jutro jednoga manadžera bilo bi ujutro doći na posao i pritisnuti
+  jedan ENTER i saznati kakvo je stanje na računu, i pritisnuti drugi put ENTER
+  i vidi šta tko radi u firmi. Je li to moguće? Naravno da jeste. Potrebno je
+  samo usvojiti određene promjene u radu i obučiti ljude.
+dateModified: '2017-03-15T13:53:56.117Z'
+datePublished: '2017-03-15T13:53:56.984Z'
 title: Kako CRM Može Unaprijediti Vaše Odnose s Klijentima
 author: []
 publisher:
@@ -33,7 +37,7 @@ Sigurno ste pomislili kako odnosi s kupcima trebaju biti korektni, ljubazni, top
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/2a1433294a9d51de5e8db45f980f0ead/croprotate.png?cropheight=617&cropwidth=846&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fba584d98-3f7e-42c2-b915-ee094ea1e503.png&x=12&y=0)
 ![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f9d1cdf788f0da2074b967c3b89e3960/croprotate.png?cropheight=623&cropwidth=794&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3585c29b-963c-443b-8d11-c20760eb0aca.png&x=10&y=0)
 
-Ono što sam vam želio prezentirati u ovom textu je CRM (Customer Relationship Manager) ili u prijevodu Manager za odnose s kupcima. U ovo slučaju to je program za vođenje klijenata/kupaca.  Zašto je to jako važno u digitalnom marketingu? Zato što digitalno oglašavanje može na vaše stranice dovesti tisuće ljudi. Što raditi sa onima koji nisu ništa kupili,...kako ih "natjerati" da ostanu s vama u kontaktu.
+Ono što sam vam želio prezentirati u ovom textu je CRM (Customer Relationship Manager) ili u prijevodu Manager za odnose s kupcima. U ovo slučaju to je program za vođenje klijenata/kupaca. Zašto je to jako važno u digitalnom marketingu? Zato što digitalno oglašavanje može na vaše stranice dovesti tisuće ljudi. Što raditi sa onima koji nisu ništa kupili,...kako ih "natjerati" da ostanu s vama u kontaktu.
 
 Moram vam reći da je mali broj firmi koji je uspio na taj način uredno voditi klijente. Ima pokušaja ali su nedovoljni. To zahtjeva i malo vremena. Mnogi manageri smatraju kako je to gubljenje vremena.
 
@@ -41,7 +45,7 @@ Oglasna kampanja je jedan proces koji liči proizvodnom procesu. Potrebno je res
 
 Idealan cilj svake posjete web stranice je KUPOVINA. Ali ako kupovina nije urađena, možemo li dobiti neku drugu vrijednost? Možemo. A to je da dobijemo podatke o klijentu. Pa barem i email adresu.
 
-Zašto vam dajem ovu usporedbu? Pitanja koja bih vam postavio su slijedeća:  Šta radite sa svojim klijentima? Jesu li oni na nekom spisku? Znate li tko je šta i koliko kupio? Kako se zovu i gdje žive? Kakve su im navike? Kada ste ih zadnji put kontaktirali i ponudili neki novi proizvod ili neku pogodnost? Koji komercijalisti su zaduženi za koje kupce?...puno je pitanja.
+Zašto vam dajem ovu usporedbu? Pitanja koja bih vam postavio su slijedeća: Šta radite sa svojim klijentima? Jesu li oni na nekom spisku? Znate li tko je šta i koliko kupio? Kako se zovu i gdje žive? Kakve su im navike? Kada ste ih zadnji put kontaktirali i ponudili neki novi proizvod ili neku pogodnost? Koji komercijalisti su zaduženi za koje kupce?...puno je pitanja.
 
 Kako to učiniti? Pa stvari su naizgled jednostavne, međutim to baš i nije tako. Potrebno je osmisliti neku vrijednost za klijenta, kako bi on za uzvrat dao svoje podatke. To može biti:
 
@@ -63,8 +67,10 @@ Jedan od razloga zašto koristiti CRM je imati sve podatke o klijentu uređene n
 Postoji i mnogo nekih besplatnih sustava ali ne bih ih komentirao, jer zasigurno ne daju određenu kvalitetu kao ova dva.
 
 Želim vam samo skrenuti pažnju kako postoji jako puno dobrih poslovnih rješenja i alata koje MORATE koristiti ako želite napredovati u poslu. Naravno da to zahtjeva i određene napore ali savjetujem vam da to nije bacanje vremena i novca. Današnji DIGITALNI MARKETING svodi se na individualni pristup klijentu. Jer to je jednostavno danas moguće. I zašto ne ići u tom pravcu. Registrirajte se i isprobajte ova dva CRM-a i upoznajte se s mogućnostima koje donose.
+[Pretplati se][4]
 
 [0]: http://connect.ba/sto-prodavati-srbima-hrvatima-bosnjacima-ostalim/
 [1]: http://www.intrixcrm.com/hr/registracija
 [2]: https://www.bitrix24.com/register/reg.php
 [3]: https://www.bitrix24.com/online-domains-map
+[4]: http://www.subscribepage.com/b8c7z2
