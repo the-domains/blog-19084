@@ -1,26 +1,36 @@
 ---
 inFeed: true
-description: "Nove tehnologije su omogućile e-prodaju koja umanjuje cijenu proizvoda iz razloga što zaobilazi\_neke posrednike u trgovini. Međutim s druge strane pojavili su se troškova koje je ponekad nemoguće izbjeći."
-dateModified: '2017-03-15T12:32:34.309Z'
-datePublished: '2017-03-15T12:32:35.197Z'
+description: >-
+  Ako mislite kako je najveći problem napraviti web stranicu za trgovinu, tj.
+  dizajnirati je i programirati, onda se varate. Ako mislite da je to jedini
+  problem, onda se upitajte zašto npr. moja agencija Connect, nema barem 10 web
+  stranica za trgovinu. Imamo sve resurse kako bi to napravili, dizjnera,
+  programera, marketing, znanje…
+dateModified: '2017-03-15T12:35:13.703Z'
+datePublished: '2017-03-15T12:35:17.056Z'
 title: Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
 author: []
-publisher: {}
+publisher:
+  name: Connect Blog
 via: {}
-starred: false
-datePublishedOriginal: '2017-03-15T12:32:35.197Z'
 sourcePath: >-
   _posts/2017-03-15-deset-stvari-koje-morate-rjesiti-prije-pokretanja-web-trgovi.md
-_type: Blurb
+hasPage: true
+starred: false
+datePublishedOriginal: '2017-03-15T12:32:35.197Z'
+url: deset-stvari-koje-morate-rjesiti-prije-pokretanja-web-trgovi/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d6c2bef4-7f59-44c3-8e9a-1c32d6343f4d.jpg)
 
 # Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
 
-**N**ove tehnologije su omogućile e-prodaju koja umanjuje cijenu proizvoda iz razloga što zaobilazi neke posrednike u trgovini. Međutim s druge strane pojavili su se troškova koje je ponekad nemoguće izbjeći.
-
 Ako mislite kako je najveći problem napraviti web stranicu za trgovinu, tj. [dizajnirati je i programirati][0], onda se varate. Ako mislite da je to jedini problem, onda se upitajte zašto npr. moja agencija Connect, nema barem 10 web stranica za trgovinu. Imamo sve resurse kako bi to napravili, dizjnera, programera, marketing, znanje...
+
+---
+
+**N**ove tehnologije su omogućile e-prodaju koja umanjuje cijenu proizvoda iz razloga što zaobilazi neke posrednike u trgovini. Međutim s druge strane pojavili su se troškova koje je ponekad nemoguće izbjeći.
 
 Nemamo web trgovinu jer je to posao koji zahtjeva jako puno nekih detalja koje morate rješiti prije samog pokretanja web stranica. To zahtjeva i druge resurse, ljude, znanje, novac, vrijeme...
 
@@ -28,7 +38,7 @@ U nastavku pročitajte što je to sve potrebno prije nego krenete u izradu web s
 
 ### 1\. RAZMISLITE KOJI PROIZVOD ŽELITE PRODAVATI
 
-Za početak morate odrediti koji će te proizvod ili grupu proizvoda prodavati na internetu. Nije svaki proizvod za prodaje preko interneta. Odjeća, obuća, tehnika, usluge... mogu se prodavati ali npr. automobil nikada nećete kupiti preko inetrneta. Možete tražiti informcije ali ipak će te otići u salon i tamo dogovoriti i završiti kupovinu. Ili npr, zlatnu ogrlicu, ili neke jako vrijedne stvari.  Dakle na samom početku morate dobro razlisliti je li vaš proizvod uopće moguće prodavati na internetu.
+Za početak morate odrediti koji će te proizvod ili grupu proizvoda prodavati na internetu. Nije svaki proizvod za prodaje preko interneta. Odjeća, obuća, tehnika, usluge... mogu se prodavati ali npr. automobil nikada nećete kupiti preko inetrneta. Možete tražiti informcije ali ipak će te otići u salon i tamo dogovoriti i završiti kupovinu. Ili npr, zlatnu ogrlicu, ili neke jako vrijedne stvari. Dakle na samom početku morate dobro razlisliti je li vaš proizvod uopće moguće prodavati na internetu.
 
 Najveći_problemi vezani za internet trgovinu nisu uopće na internetu._
 
@@ -38,7 +48,7 @@ Ovo je pitanje svih pitanja. Kako poslovati i na koji način. Ovo je tema za seb
 
 ### 3\. CIJENA PROIZVODA
 
-Sve troškove koje imate morate ukalkulirati u konačnu cijenu proizvoda. Zašto je to važno odmah u startu rješiti? Imao sam klijenta koji je prodavao bižuteriju i imao neke proizvode čija je cijena bila par Eura. Isporuka toga proizvoda tj. poštarina koštala je dva puta više od proizvoda. Naravno i on je mislio da je najveći problem napraviti web stranicu. Kada je ukalkulirao poštarinu saznao je da mu se uopće neisplati prodavati na taj način.  U takvom omjeru troškova je jako teško biti konkurentan. Znate li zašto kinezi šalju maskice za mobitele koji koštaju 1 dolar i to kao free shipping? Pa zato što taj dio subvencionira država. Inače bi poštarinu platili 20 dolara za proizvod koji košta par dolara. Dobro razmislite možete li cijenom biti i dalje konkurentni kada uključite ove troškove.
+Sve troškove koje imate morate ukalkulirati u konačnu cijenu proizvoda. Zašto je to važno odmah u startu rješiti? Imao sam klijenta koji je prodavao bižuteriju i imao neke proizvode čija je cijena bila par Eura. Isporuka toga proizvoda tj. poštarina koštala je dva puta više od proizvoda. Naravno i on je mislio da je najveći problem napraviti web stranicu. Kada je ukalkulirao poštarinu saznao je da mu se uopće neisplati prodavati na taj način. U takvom omjeru troškova je jako teško biti konkurentan. Znate li zašto kinezi šalju maskice za mobitele koji koštaju 1 dolar i to kao free shipping? Pa zato što taj dio subvencionira država. Inače bi poštarinu platili 20 dolara za proizvod koji košta par dolara. Dobro razmislite možete li cijenom biti i dalje konkurentni kada uključite ove troškove.
 
 ### 4\. MODEL NAPLAĆIVANJA
 
@@ -60,8 +70,6 @@ Isporuka je najvažniji dio web trgovine. Možete imati vrhunske stranice, dobar
 
 Bilo što da prodajete morate taj proizvod prikazati kupcima. Ako ste preprodavač, možda i možete naći neke fotogrfije od proizvođača ali u većini slučajevi vi morate napravit fotografije. Ako prodajete odjeću, pa ne možete samo košulju prebaciti preko stolice i uslikati. Takve fotke moraju imati barem malu dozu profesionalnosti. A to opet zahtjeva nešto rasvjete, dobar fotoaparat, i mora netko znati malo i obraditi te fotografije i pripremiti ih za objavu. Imao sam klijenta koji je prodavao nakit, a to je vrlo teško uslikati i morate imati tehničke uvjete i znanje kako bi to odradili kvalitetno. Većina ljudi o ovome i ne razmišlja dok im ne postavim pitanje: _A tko će slikati vaše proizvode. _Angažirati fotografa nekad amože biti jako skupo i dugotrajno.
 
-Najveća zamka planiranja je kako će to NETKO uraditi. Morate točno znati tko je taj NETKO.
-
 ### 8\. ADMINISTRATORI
 
 Prvo pitanje kada klijent ima zahtjev da sam uređuje stranicu tj. kada im izradimo CMS (Content management system), jeste _A tko će biti administrator te web stranice_. Koliko osoba koja će upravljati stranicama uopće poznaje web. Ne mora biti neki vrhunski stručnjak ali mora posjedovati određeno znanje. Mora znati da nije dobro uloadovati sliku od 50 Mb. Koliko je administratora potrebno. Negdje je potrebno i desetak ljudi da radi na stranici. Treba pratiti sve narudžbe, naplatu, reklamacije...
@@ -70,11 +78,9 @@ Prvo pitanje kada klijent ima zahtjev da sam uređuje stranicu tj. kada im izrad
 
 Jedan od najvažnijih detalja. Ono daje kupcima sigurnost i neku garanciju kod kupovine. Lako je napisati da dajete povrat robe i garanciju, ali to mora sve biti definirano I PROVEDIVO. Kao npr. tko plaća dostavu u slučaju povrata proizvoda, koliko traje servis, kako vam roba mora biti upakirana ako je kupac reklamira, jer se može još dodatno oštetiti u povratku. Sve su ovo stvari koje je lako reći i napisati na web stranici ali to treba i provesti u praksi.
 
-Mnogo stvari je lako napisati da nudite a jesu li stvarno provedive.
-
 ### 10\. ZAKONSKE OSNOVE
 
-I na kraju sve ovo što radite mora biti legalno. Zakona o internet poslovanju u BiH nema. Što se toga tiče mi smo još u kamenom dobu. Evo vam jedan promjer. Prije par godina sam radio na jednom projektu web prodaje knjiga. Zakonski vi ne možete iz BiH prodavati knjige u Hrvatskoj što se tiče autorskih prava.  U hrvatskoj postoji izdavač koji vam prodaje tu istu knjigu i obavezni ste od njega kupiti. Dakle izdavač ima ugovor s autorima za koju zemlju može prodavati. Dakle problem je bilo isporučiti knjigu u Hrvatsku. Morate se dobro raspitati i o carinskim obvezama i koliko će vaš proizvod u konačnici koštati za kupca. Morate isporučiti i fiskalni račun jer je on dokaz za reklamaciju.
+I na kraju sve ovo što radite mora biti legalno. Zakona o internet poslovanju u BiH nema. Što se toga tiče mi smo još u kamenom dobu. Evo vam jedan promjer. Prije par godina sam radio na jednom projektu web prodaje knjiga. Zakonski vi ne možete iz BiH prodavati knjige u Hrvatskoj što se tiče autorskih prava. U hrvatskoj postoji izdavač koji vam prodaje tu istu knjigu i obavezni ste od njega kupiti. Dakle izdavač ima ugovor s autorima za koju zemlju može prodavati. Dakle problem je bilo isporučiti knjigu u Hrvatsku. Morate se dobro raspitati i o carinskim obvezama i koliko će vaš proizvod u konačnici koštati za kupca. Morate isporučiti i fiskalni račun jer je on dokaz za reklamaciju.
 
 **Zaključak**
 
