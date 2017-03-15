@@ -4,8 +4,8 @@ description: >-
   Potreba za fotografijom kao sredstvom komunikacije nikada nije prestala a niti
   će. Oglasi, bilboardi, reklame, baneri…komuniciraju fotografijom. I nije džaba
   ona izreka da jedna slika govori 1000 riječi.
-dateModified: '2017-03-15T13:53:26.816Z'
-datePublished: '2017-03-15T13:53:27.701Z'
+dateModified: '2017-03-15T13:55:06.787Z'
+datePublished: '2017-03-15T13:55:07.528Z'
 title: Koliko je Važna Reklamna Fotografija
 author: []
 publisher:
