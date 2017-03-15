@@ -6,8 +6,8 @@ description: >-
   problem, onda se upitajte zašto npr. moja agencija Connect, nema barem 10 web
   stranica za trgovinu. Imamo sve resurse kako bi to napravili, dizjnera,
   programera, marketing, znanje…
-dateModified: '2017-03-15T13:08:00.778Z'
-datePublished: '2017-03-15T13:08:01.026Z'
+dateModified: '2017-03-15T13:51:39.024Z'
+datePublished: '2017-03-15T13:51:39.976Z'
 title: Deset Stvari Koje Morate Rješiti Prije Pokretanja Web Trgovine
 author: []
 publisher:
@@ -86,6 +86,8 @@ I na kraju sve ovo što radite mora biti legalno. Zakona o internet poslovanju u
 **Zaključak**
 
 Često puta dobijemo upite za cijenu izrade web trgovine. U takvim situacijama pokušavam klijentu ukazati u što se upušta i je li uopće zna koliki je to posao. Većina ljudi smatra da se trgovina na webu može pokrenuti s par stotina KM. Postavi stranicu i zarađuj. Naravno da to nije tako. Prije nego što pošaljete upit agenciji za izradu web stranice pročitajte ovaj članak i bit će vam jasno da li ste uopće spremni na takav projekat. Ako jeste, napravite Business plan i saznajte je li to izvodivo. Savjetujem vam još da probate proizvode prodavati na www.pik.ba. ili sličnim platformama za prodaju koje su besplatna i možete lako testirati prodaju i sve ostalo.
+[Pretplati se][2]
 
 [0]: http://connect.ba/kako-napraviti-web-stranicu-za-0-km/
 [1]: http://www.draganvaragic.com/blog/cesti-problemi-i-njihova-resenja-pri-kreiranju-e-trgovine/
+[2]: http://www.subscribepage.com/b8c7z2
