@@ -5,17 +5,17 @@ description: >-
   toliko koliko se pričalo o tome. I ne toliko za ljude iz prodaje i marketinga.
   Postoje i druge segmentacije koje vam mogu pomoći u poslovanju a čiji se
   podaci nalaze na zadnjem popisu stanovništva.
-dateModified: '2017-03-15T15:13:20.029Z'
-datePublished: '2017-03-15T15:13:20.848Z'
+dateModified: '2017-03-15T15:13:35.222Z'
+datePublished: '2017-03-15T15:13:35.358Z'
 title: 'Što prodavati Srbima, Hrvatima i Bošnjacima'
 author: []
 publisher:
   name: Connect Blog
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-sto-prodavati-srbima-hrvatima-i-bosnjacima.md
 starred: false
 datePublishedOriginal: '2017-03-15T15:13:20.848Z'
-sourcePath: _posts/2017-03-15-sto-prodavati-srbima-hrvatima-i-bosnjacima.md
 url: sto-prodavati-srbima-hrvatima-i-bosnjacima/index.html
 _type: Article
 
