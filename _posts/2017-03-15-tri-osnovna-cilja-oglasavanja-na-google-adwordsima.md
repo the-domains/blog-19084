@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: "Slaže te li se kako\_je uvijek cilj oglašavanja, povećanje zarade. \_Međutim nekada se do toga cilja dolazi na razne načine. Nekada je to malo kraći a nekada duži put. Pa tako kada pitam klijente što je cilj njihove kampanje, naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst."
-dateModified: '2017-03-15T12:46:08.587Z'
-datePublished: '2017-03-15T12:46:11.009Z'
+dateModified: '2017-03-15T12:46:24.591Z'
+datePublished: '2017-03-15T12:46:24.716Z'
 title: Tri Osnovna Cilja Oglašavanja na Google AdWordsima
 author: []
 publisher:
   name: Connect Blog
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-tri-osnovna-cilja-oglasavanja-na-google-adwordsima.md
 starred: false
 datePublishedOriginal: '2017-03-15T12:46:11.009Z'
-sourcePath: _posts/2017-03-15-tri-osnovna-cilja-oglasavanja-na-google-adwordsima.md
 url: tri-osnovna-cilja-oglasavanja-na-google-adwordsima/index.html
 _type: Article
 
