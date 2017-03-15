@@ -1,22 +1,27 @@
 ---
 inFeed: true
-description: "Ja znam da svi mi volimo svoje firme, uložili smo u njih rasli zajedno, međutim to naše kupce ne interesira. Najveća greška koju moji klijenti prave je da pisajući tekst u stvari pišu hvalospjeve o sebi. Moram vas razočarati ali to nikoga ne zanima. Ljude zanima i postavljaju samo jednu pitanja: Da li ćete\_mi rješiti problem kojeg imam?"
-dateModified: '2017-03-15T13:00:54.723Z'
-datePublished: '2017-03-15T13:00:56.249Z'
+description: >-
+  Ja znam da svi mi volimo svoje firme, uložili smo u njih rasli zajedno,
+  međutim to naše kupce ne interesira. Najveća greška koju moji klijenti prave
+  je da pisajući tekst u stvari pišu hvalospjeve o sebi. Moram vas razočarati
+  ali to nikoga ne zanima. Ljude zanima i postavljaju samo jednu pitanja: Da li
+  ćete mi rješiti problem kojeg imam?
+dateModified: '2017-03-15T13:04:19.152Z'
+datePublished: '2017-03-15T13:04:20.013Z'
 title: Kako Napisati Kvalitetan Sadržaj za Web Stranice
 author: []
 publisher:
   name: Connect Blog
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-15-kako-napisati-kvalitetan-sadrzaj-za-web-stranice.md
 starred: false
 datePublishedOriginal: '2017-03-15T13:00:56.249Z'
-sourcePath: _posts/2017-03-15-kako-napisati-kvalitetan-sadrzaj-za-web-stranice.md
 url: kako-napisati-kvalitetan-sadrzaj-za-web-stranice/index.html
 _type: Article
 
 ---
-### 01/12/2016\.
+### 25/11/2016\.
 
 # Kako Napisati Kvalitetan Sadržaj za Web Stranice
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881f2b12-fbf7-4916-965c-3006a50550f2.jpg)
@@ -43,7 +48,7 @@ Potrebno je da jednostavno skicirate olovkom kako bi se vaša stranica trebala g
 
 Želite li biti dobro pozicionirani na pretraživačima potrebno je da imate originalan i relevantan sadržaj. Ljudi će vaše usluge pretraživati po nekim ključnim riječima. Npr. ako vam treba neka agencija koja se bavi grafičkim dizajnom ukucat će te riječ _agencija za grafički dizajn_, _grafička agencija_ ili _dizjaniranje letaka_, ako vam je potrebna ta usluga.
 
-Prije nego krenete pisati tekst složite listu ključnih riječi po kojima bi ste vi pretraživali to što vi nudite kao firma. Stavite se u poziciju potencijalnog kupca koji pretražuje po Googlu. Kada napišete ključne riječi, pokušajte ih staviti u kontekst onoga što pišete. Google ima svoje algoritme i koristi  više od 200 parametara koji odlučuju kako će pozcionirati vašu stranicu na pretraživaču.
+Prije nego krenete pisati tekst složite listu ključnih riječi po kojima bi ste vi pretraživali to što vi nudite kao firma. Stavite se u poziciju potencijalnog kupca koji pretražuje po Googlu. Kada napišete ključne riječi, pokušajte ih staviti u kontekst onoga što pišete. Google ima svoje algoritme i koristi više od 200 parametara koji odlučuju kako će pozcionirati vašu stranicu na pretraživaču.
 
 Takodjer možete koristiti [alat za ključne riječi.][0] Kako bi koristili ovaj alat morate se prijaviti za GoogleAds.
 
@@ -55,7 +60,7 @@ Stoga je vrlo važno na neki način reći tko ste vi i što radite. nemate mnogo
 
 ### O NAMA
 
-Postoji mnogo načina da kažete nešto o sebi, tj. čime se i na koji način bavite. Najgori ali i najčešći primjer je rublika O nama.  Moram vas razočarati ali taj tekst ćete pročitati vi i možda poneko još. Posjetitelji će radije pročitati što drugi kažu o vama. Pa tako je i u privatnom životu. Nije rijetkost da ste nekoga pitali, K_akav je tebi onaj...ma znaš ga...._
+Postoji mnogo načina da kažete nešto o sebi, tj. čime se i na koji način bavite. Najgori ali i najčešći primjer je rublika O nama. Moram vas razočarati ali taj tekst ćete pročitati vi i možda poneko još. Posjetitelji će radije pročitati što drugi kažu o vama. Pa tako je i u privatnom životu. Nije rijetkost da ste nekoga pitali, K_akav je tebi onaj...ma znaš ga...._
 
 Postoji mnogo načina da to kažete suptilnije i na uvjerljiviji način. Naš prijedlog je da pišete Blog i u njemu iznosite svoje prednosti kroz neke korisne tekstove. Također je jako dobro staviti komentare vaših klijenata i njihova pozitivna iskustva. Nekoliko komentara na društvenim mrežama više će vam koristiti nego da vi sami napišete o sebi gomilu teksta.
 
