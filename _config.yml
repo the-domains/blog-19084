@@ -32,9 +32,6 @@ navigation:
   - name: Usluge
     url: 'http://usluge.connect365.online/'
     type: external
-  - name: Portfolio
-    url: 'http://portfolio.connect365.online/'
-    type: external
   - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
     type: external
