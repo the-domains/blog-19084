@@ -29,11 +29,11 @@ navigation:
   - name: Home
     url: 'http://connect365.online/'
     type: external
-  - name: Reference
-    url: 'http://connect365.online/ovo-su-nase-reference'
-    type: external
   - name: Usluge
     url: 'http://usluge.connect365.online/'
+    type: external
+  - name: Reference
+    url: 'http://connect365.online/ovo-su-nase-reference'
     type: external
   - name: Zanimljivosti
     url: 'http://zanimljivosti.connect365.online/'
