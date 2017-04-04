@@ -6,8 +6,8 @@ description: >-
   format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
   tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
   pričao. O svojoj firmi, o proizvodu, o nagradama…
-dateModified: '2017-04-04T10:23:25.574Z'
-datePublished: '2017-04-04T10:23:27.528Z'
+dateModified: '2017-04-04T10:42:35.290Z'
+datePublished: '2017-04-04T10:42:36.504Z'
 title: Kako Prodati Rupu na Zidu?
 author: []
 publisher:
@@ -84,3 +84,6 @@ Jeli vam jedino cijena bitna ili nešto i od ovih stvari ulazi u konačnu odluku
 -- beneficije članstva...
 
 Jeste li ovo sve zanemarili samo kako bi kupili najjeftiniji proizvod. Po logici niskih cijena ljudi bi trebali kupovati robu samo na pijaci. Stoga, razmislite o korisnosti za kupca koju nudi vaš proizvod. Ne pričajte o proizvodu i o sebi. Ispričajte priču koja počinje od kupca. Iz njegove perspektive. Ako vam je cijena jedini benefit za kupce, vrlo brzo će te doći u probleme. Znam kako nije ni lako biti kreativan. Ali za to postoje reklamne agencije s kojima će te zajedno postaviti strategiju i vremenom razvijati prepoznatljivu komunikaciju s vašim kupcima.
+[Pretplati se][0]
+
+[0]: http://www.subscribepage.com/b8c7z2
