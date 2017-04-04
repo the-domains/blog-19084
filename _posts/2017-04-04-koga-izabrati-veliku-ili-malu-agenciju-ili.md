@@ -5,9 +5,9 @@ description: >-
   Grafički ili Web dizajn ili za Internet oglašavanje. Jasno mi je kako mnogi
   pokušavaju sa što manje ulaganja doći do odličnih rješenja. I to je sasvim
   normalno. Ali...
-dateModified: '2017-04-04T10:40:45.416Z'
-datePublished: '2017-04-04T10:40:47.154Z'
-title: 'Koga izabrati, veliku ili malu agenciju ili…?'
+dateModified: '2017-04-04T10:56:27.861Z'
+datePublished: '2017-04-04T10:56:29.672Z'
+title: 'Koga izabrati, Veliku ili Malu Agenciju ili…?'
 author: []
 publisher:
   name: Connect Blog
@@ -23,7 +23,7 @@ _type: Article
 ### 04/04/2017\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92639fa9-972a-49b4-a881-a816fb395e8a.jpg)
 
-# Koga izabrati, veliku ili malu agenciju ili...?
+# Koga izabrati, Veliku ili Malu Agenciju ili...?
 
 Vrlo često moji klijenti i prijatelji imaju dilemu kako i koga angažirati za Grafički ili Web dizajn ili za Internet oglašavanje. Jasno mi je kako mnogi pokušavaju sa što manje ulaganja doći do odličnih rješenja. I to je sasvim normalno. Ali...
 
