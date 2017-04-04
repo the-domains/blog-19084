@@ -6,8 +6,8 @@ description: >-
   format bi sve stalo, kako bih dao svoje nepristrano mišljenje. Pročitao sam
   tekst i odgovorio mu kako je tekst odličan samo što je najviše i jedino o sebi
   pričao. O svojoj firmi, o proizvodu, o nagradama…
-dateModified: '2017-03-15T15:20:58.960Z'
-datePublished: '2017-03-15T15:20:59.505Z'
+dateModified: '2017-04-04T10:23:25.574Z'
+datePublished: '2017-04-04T10:23:27.528Z'
 title: Kako Prodati Rupu na Zidu?
 author: []
 publisher:
