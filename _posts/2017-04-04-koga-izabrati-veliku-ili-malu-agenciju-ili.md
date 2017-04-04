@@ -5,20 +5,22 @@ description: >-
   Grafički ili Web dizajn ili za Internet oglašavanje. Jasno mi je kako mnogi
   pokušavaju sa što manje ulaganja doći do odličnih rješenja. I to je sasvim
   normalno. Ali...
-dateModified: '2017-04-04T10:19:37.838Z'
-datePublished: '2017-04-04T10:20:01.243Z'
+dateModified: '2017-04-04T10:21:10.580Z'
+datePublished: '2017-04-04T10:21:12.033Z'
 title: 'Koga izabrati, veliku ili malu agenciju ili…?'
 author: []
-publisher: {}
+publisher:
+  name: Connect Blog
 via: {}
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-04-04T10:20:01.243Z'
+datePublishedOriginal: '2017-04-04T10:21:08.949Z'
 sourcePath: _posts/2017-04-04-koga-izabrati-veliku-ili-malu-agenciju-ili.md
 url: koga-izabrati-veliku-ili-malu-agenciju-ili/index.html
 _type: Article
 
 ---
+### 04/04/2017\.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/92639fa9-972a-49b4-a881-a816fb395e8a.jpg)
 
 # Koga izabrati, veliku ili malu agenciju ili...?
@@ -45,7 +47,7 @@ Nedostaci:
 * udaljavate ga s poslova koji već radi
 * nedovoljan angažman ako ne bude plaćen za ovaj dodatni posao (Dizajn ili Oglašavanje)
 * nedovoljna educiranost i kvaliteta obavljenog posla
-* laka manipulacija vremenom (nisam stigao svoj jer sam radio na izradi letaka) 
+* laka manipulacija vremenom (nisam stigao svoj jer sam radio na izradi letaka)
 
 Na kraju nemate ni grafičkog dizajnera (oglašivača) niti čovjeka koji ima već određene dužnosti. Hoću reći kako je ljudima na početku to interesantno ali na kraju dođu do spoznaje kako ipak to nije njihov posao i kako to zapravo ne žele raditi. Još ako ih niste platili za to kreće bojkot poslova i lagano izvlačenje.
 
@@ -127,7 +129,7 @@ Oni su poznati po tome što nude full-service i pružaju veliki raspon marketin�
 
 Ovo je dobar izbor ako imate velike i složene poslove. Poslovi su podjeljeni i cijeli timovi rade na određenim projektima.
 
-Međutim problem je često puta što je to velik stroj koji je u pojedinačnim slučajevima spor. Svaki put će te raditi sa nekim drugim ljudima iz agencija, što znači da oni nikada ne mogu biti involvirani u vaše poslovanje. 
+Međutim problem je često puta što je to velik stroj koji je u pojedinačnim slučajevima spor. Svaki put će te raditi sa nekim drugim ljudima iz agencija, što znači da oni nikada ne mogu biti involvirani u vaše poslovanje.
 
 Cijene su jako velike i pitanje je da li će te imati povrat takvih ulaganja.
 
