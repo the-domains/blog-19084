@@ -5,8 +5,8 @@ description: >-
   Grafički ili Web dizajn ili za Internet oglašavanje. Jasno mi je kako mnogi
   pokušavaju sa što manje ulaganja doći do odličnih rješenja. I to je sasvim
   normalno. Ali...
-dateModified: '2017-04-04T10:23:25.574Z'
-datePublished: '2017-04-04T10:23:26.339Z'
+dateModified: '2017-04-04T10:40:45.416Z'
+datePublished: '2017-04-04T10:40:47.154Z'
 title: 'Koga izabrati, veliku ili malu agenciju ili…?'
 author: []
 publisher:
@@ -158,3 +158,6 @@ Nedostaci:
 **Male agencije **su za većinu malih i srednjih poduzetnika dugoročno **najbolji izbor. **Pokušajte napraviti plan rada za godinu dana i s agencijom sklopite ugovor. Sigurno će te dobiti jako povoljne uvijete.
 
 **Velike agencije** imaju reputaciju i jako je dobro raditi s njima. Međutim, povrat uloženog je upitan. Za male i srednje firme dugoročno to nije dobar izbor.
+[Pretplati se][0]
+
+[0]: http://www.subscribepage.com/b8c7z2
