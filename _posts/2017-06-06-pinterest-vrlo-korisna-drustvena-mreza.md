@@ -1,8 +1,8 @@
 ---
 publisher:
   name: Connect Blog
-datePublished: '2017-07-05T20:42:00.015Z'
-dateModified: '2017-07-05T20:41:56.968Z'
+datePublished: '2017-07-05T20:47:42.758Z'
+dateModified: '2017-07-05T20:47:41.072Z'
 description: >-
   Danas postoji preko 200 društvenih mreža. Nekako je na kod nas najviše usvojen
   Facebook, a onda ga slijede Instagram, Twiter, LinkedIn, Google+…Ostale
@@ -36,8 +36,6 @@ Ova mreža u stvari pokazuje kako suradnja i solidarnost funkcioniraju. Veliki b
 > Pinterest je mreža koja će vas nadahnuti idejama.
 
 Razvoj Pinteresta kreće od 2009\. godine. Zanimljivo je kako je do deset milijuna registriranih korisnika došao za samo 9 mjeseci, za što je Facebooku bilo potrebno 28, a Twiteru 26 mjeseci. Ne može se ni na koji način usporediti s ostalim društvenim mrežama.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j0sKwjAYhK9SsjepohXFVFQUK7rwtelGYv_fNMU0mkR7Cm_lwXy7_IaZYaanDlZoDJzNOMm9P7kuY2AyR6Ux8og0M5odjNWOAUNWnwyS03K-hmOaJK5wkR8V6-nCp3q2rWFnNO5MG1UzGUblojyvNgJDkOlsJ9lVYfWq6aPeIwAC9_aCJKgU-JyTdhSSIEclc89JK3zCe9beWEDLyZO1sFKVP8tf-OZDEm_vN-XFVZQFUkp77HMsfgAAZ0y0" height="500" style=""></iframe>
 
 Bilo da želite saznati korisne informacije o modi, hrani, dizajnu prostora, marketingu...Pinterest je odličan izbor. Informacije koje se nude na Pinterestu su sažete i vrlo korisne. Određeni linkovi vas vode na izvor informacija.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9cdca90-525f-48b1-bac2-44ba1f32f9a4.png)
