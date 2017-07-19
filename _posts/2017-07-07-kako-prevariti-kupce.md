@@ -4,8 +4,8 @@ description: >-
   Ovaj naslov nema veze s prevarom, jer kupce je danas nemoguće prevariti tako
   da svi oni koji to pokušavaju ostave svaku nadu prvim klikom i izlaskom na
   internet.
-dateModified: '2017-07-19T12:15:18.513Z'
-datePublished: '2017-07-19T12:15:19.150Z'
+dateModified: '2017-07-19T12:24:46.617Z'
+datePublished: '2017-07-19T12:24:47.219Z'
 title: Kako prevariti kupce?
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ via: {}
 sourcePath: _posts/2017-07-07-kako-prevariti-kupce.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-07-19T12:14:21.766Z'
+datePublishedOriginal: '2017-07-19T12:24:45.606Z'
 url: kako-prevariti-kupce/index.html
 _type: Article
 
@@ -49,6 +49,8 @@ Evo vam samo nekih dokazanih pravila:
 3. Dostupnost društvenih mreža, blogova, foruma, na kojima ljudi komentiraju i imaju u svakom momentu mogućnost da podjele svoja iskustva, kako i zašto uopće ikome i pada na pamet da bi mogao prevariti kupca.
 4. Postoje neki zakonski okviri koji štite kupce ali puno više od toga je poštivanje kodeksa poštenog poslovnog ponašanja ili što bi se narodski reklo OBRAZA.
 
-Zaključak: prije nego što pomislite prevariti ili navesti kupca na pogrešnu odluku, dobro razmislite jer loše vijesti o vama se brzo šire. Nije nužno da imate najbolji proizvod, najbolju uslugu...jer to nije logika stvari i svijet ne funkcionira na taj način. Da je to tako pa samo bi imali 10 brendova za cijeli svijet i to je to. Na sreću svijet drugačije funkcionira. 
+Zaključak: prije nego što pomislite prevariti ili navesti kupca na pogrešnu odluku, dobro razmislite jer loše vijesti o vama se brzo šire. Nije nužno da imate najbolji proizvod, najbolju uslugu...jer to nije logika stvari i svijet ne funkcionira na taj način. Da je to tako pa samo bi imali 10 brendova za cijeli svijet i to je to. Na sreću svijet drugačije funkcionira.
+
+Stoga uložiti energiju, znanje i trud u poboljšanje svojih proizvoda ili usluga i tako se odvojite od konkurencije. To vas mnogo manje košta, nego smišljati mogučnosti kako navesti kupca na pogrešnu odluku. 
 
 [0]: https://youtu.be/UmM9qfzfzhw
