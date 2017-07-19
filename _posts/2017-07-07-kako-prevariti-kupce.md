@@ -4,8 +4,8 @@ description: >-
   Ovaj naslov nema veze s prevarom, jer kupce je danas nemoguće prevariti tako
   da svi oni koji to pokušavaju ostave svaku nadu prvim klikom i izlaskom na
   internet.
-dateModified: '2017-07-19T12:39:51.676Z'
-datePublished: '2017-07-19T12:39:52.326Z'
+dateModified: '2017-07-19T12:54:18.028Z'
+datePublished: '2017-07-19T12:54:18.555Z'
 title: Kako prevariti kupce?
 author: []
 publisher: {}
