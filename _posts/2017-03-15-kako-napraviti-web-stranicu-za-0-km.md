@@ -4,8 +4,8 @@ description: >-
   Donosimo vam 4 načina tj. vrste web stranica, koje mogu biti od 0 KM do 50.000
   KM pa i više. Dobro razmislite i analizirajte što vam je potrebno te na
   temelju toga odlučite se za neko od rješenja.
-dateModified: '2017-07-19T12:25:52.305Z'
-datePublished: '2017-07-19T12:25:52.880Z'
+dateModified: '2017-07-19T12:54:18.028Z'
+datePublished: '2017-07-19T12:54:18.545Z'
 title: Kako Napraviti Web Stranicu za 0 KM
 author: []
 publisher:
