@@ -5,8 +5,8 @@ description: >-
   jedan ENTER i saznati kakvo je stanje na računu, i pritisnuti drugi put ENTER
   i vidi šta tko radi u firmi. Je li to moguće? Naravno da jeste. Potrebno je
   samo usvojiti određene promjene u radu i obučiti ljude.
-dateModified: '2017-07-19T12:15:18.513Z'
-datePublished: '2017-07-19T12:15:19.192Z'
+dateModified: '2017-07-19T12:25:52.305Z'
+datePublished: '2017-07-19T12:25:52.867Z'
 title: Kako CRM Može Unaprijediti Vaše Odnose s Klijentima
 author: []
 publisher:
