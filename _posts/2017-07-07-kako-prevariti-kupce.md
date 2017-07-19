@@ -4,8 +4,8 @@ description: >-
   Ovaj naslov nema veze s prevarom, jer kupce je danas nemoguće prevariti tako
   da svi oni koji to pokušavaju ostave svaku nadu prvim klikom i izlaskom na
   internet.
-dateModified: '2017-07-19T12:24:46.617Z'
-datePublished: '2017-07-19T12:24:47.219Z'
+dateModified: '2017-07-19T12:25:17.089Z'
+datePublished: '2017-07-19T12:25:17.670Z'
 title: Kako prevariti kupce?
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 ## 01./07/2017\.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fd4f380-1376-423a-acf9-fb1ae8519b5c.png)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d39d86d35acdac23e38dd42166b30f4f/croprotate.png?cropheight=1131&cropwidth=1607&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1fd4f380-1376-423a-acf9-fb1ae8519b5c.png&x=45&y=0)
 
 # Kako prevariti kupce?
 
@@ -51,6 +51,6 @@ Evo vam samo nekih dokazanih pravila:
 
 Zaključak: prije nego što pomislite prevariti ili navesti kupca na pogrešnu odluku, dobro razmislite jer loše vijesti o vama se brzo šire. Nije nužno da imate najbolji proizvod, najbolju uslugu...jer to nije logika stvari i svijet ne funkcionira na taj način. Da je to tako pa samo bi imali 10 brendova za cijeli svijet i to je to. Na sreću svijet drugačije funkcionira.
 
-Stoga uložiti energiju, znanje i trud u poboljšanje svojih proizvoda ili usluga i tako se odvojite od konkurencije. To vas mnogo manje košta, nego smišljati mogučnosti kako navesti kupca na pogrešnu odluku. 
+Stoga uložiti energiju, znanje i trud u poboljšanje svojih proizvoda ili usluga i tako se odvojite od konkurencije. To vas mnogo manje košta, nego smišljati mogućnosti kako navesti kupca na pogrešnu odluku. 
 
 [0]: https://youtu.be/UmM9qfzfzhw
