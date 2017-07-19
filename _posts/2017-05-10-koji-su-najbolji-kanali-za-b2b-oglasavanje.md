@@ -1,8 +1,8 @@
 ---
 publisher:
   name: Connect Blog
-datePublished: '2017-07-19T12:25:52.879Z'
-dateModified: '2017-07-19T12:25:52.305Z'
+datePublished: '2017-07-19T12:54:18.543Z'
+dateModified: '2017-07-19T12:54:18.028Z'
 description: >-
   B2B (BUSINESS TO BUSINESS) Strategije i planovi za oglašavanje na interentu su
   potpuno drugačije prirode i zahtjevaju potpuno drugačiji pristup nego što je
