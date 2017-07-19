@@ -7,8 +7,8 @@ description: >-
   naravno da je odgovor kratak i jasan, zarada. Što je i logično. Međutim kako
   doći do te zarade postoje određeni načini. Kampanja može biti uspješna i ako
   vam nitko ne klikne na oglas. Kako? Saznajte dalje čitajući ovaj tekst.
-dateModified: '2017-07-19T12:25:52.305Z'
-datePublished: '2017-07-19T12:25:52.889Z'
+dateModified: '2017-07-19T12:54:18.028Z'
+datePublished: '2017-07-19T12:54:18.567Z'
 title: Tri Osnovna Cilja Oglašavanja na Google AdWordsima
 author: []
 publisher:
