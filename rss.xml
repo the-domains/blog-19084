@@ -4,9 +4,16 @@
         <description><![CDATA[Blog tekstovi i naša iskustva]]></description>
         <link>http://blog.connect365.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 19 Jul 2017 12:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2017 12:15:52 GMT</lastBuildDate>
         <atom:link href="http://blog.connect365.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 19 Jul 2017 12:14:22 GMT</pubDate>
+        <pubDate>Wed, 19 Jul 2017 12:15:32 GMT</pubDate>
+        <item>
+            <title><![CDATA[Kako prevariti kupce?]]></title>
+            <description><![CDATA[<h2>01./07/2017.</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fd4f380-1376-423a-acf9-fb1ae8519b5c.png">,<h1>Kako prevariti kupce?</h1>,<p>Ovaj naslov nema veze s prevarom, jer kupce je danas nemoguće prevariti tako da svi oni koji to pokušavaju ostave svaku nadu prvim klikom i izlaskom na internet.</p>]]></description>
+            <link>http://blog.connect365.online/kako-prevariti-kupce/index.html</link>
+            <guid isPermaLink="false">98c34270-7bf8-48c0-a75c-078d0121cda0</guid>
+            <pubDate>Wed, 19 Jul 2017 12:14:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pinterest-najveći katalog na svijetu]]></title>
             <description><![CDATA[<h3>06/06/2017.</h3>,<h1>Pinterest-najveći katalog na svijetu</h1>,<p>Danas postoji preko 200 društvenih mreža. Nekako je na kod nas najviše usvojen Facebook, a onda ga slijede Instagram, Twiter, LinkedIn, Google+…Ostale društvene mreže imaju malo registriranih korisnika tako da su praktično zanemarive.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08829112-59c6-4c21-97ab-34f57d622239.png">]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.connect365.online/video-oglasi-ce-povecati-promet-na-vasim-web-stranicama/index.html</link>
             <guid isPermaLink="false">3d7f7259-3cb3-4fbb-a044-92b0516e941d</guid>
             <pubDate>Wed, 15 Mar 2017 13:17:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Koliko je Važna Reklamna Fotografija]]></title>
-            <description><![CDATA[<h3>15/11/2016.</h3>,<h1>Koliko je Važna Reklamna Fotografija</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f119c47-ef89-441a-ba8e-c4e40cc109df.jpg">,<p>Potreba za fotografijom kao sredstvom komunikacije nikada nije prestala a niti će. Oglasi, bilboardi, reklame, baneri…komuniciraju fotografijom. I nije džaba ona izreka da jedna slika govori 1000 riječi.</p>]]></description>
-            <link>http://blog.connect365.online/koliko-je-vazna-reklamna-fotografija/index.html</link>
-            <guid isPermaLink="false">fd40daa2-2eeb-49ad-8a98-45c4c1ba9850</guid>
-            <pubDate>Wed, 15 Mar 2017 13:27:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
