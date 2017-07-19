@@ -6,8 +6,8 @@ description: >-
   je da pisajući tekst u stvari pišu hvalospjeve o sebi. Moram vas razočarati
   ali to nikoga ne zanima. Ljude zanima i postavljaju samo jednu pitanja: Da li
   ćete mi rješiti problem kojeg imam?
-dateModified: '2017-07-19T12:25:52.305Z'
-datePublished: '2017-07-19T12:25:52.835Z'
+dateModified: '2017-07-19T12:54:18.028Z'
+datePublished: '2017-07-19T12:54:18.542Z'
 title: Kako Napisati Kvalitetan Sadržaj za Web Stranice
 author: []
 publisher:
