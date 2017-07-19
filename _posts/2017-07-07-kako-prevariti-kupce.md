@@ -4,8 +4,8 @@ description: >-
   Ovaj naslov nema veze s prevarom, jer kupce je danas nemoguće prevariti tako
   da svi oni koji to pokušavaju ostave svaku nadu prvim klikom i izlaskom na
   internet.
-dateModified: '2017-07-19T12:39:44.213Z'
-datePublished: '2017-07-19T12:39:44.831Z'
+dateModified: '2017-07-19T12:39:51.676Z'
+datePublished: '2017-07-19T12:39:52.326Z'
 title: Kako prevariti kupce?
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ _type: Article
 
 ---
 ## 01./07/2017\.
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d39d86d35acdac23e38dd42166b30f4f/croprotate.png?cropheight=1131&cropwidth=1607&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F1fd4f380-1376-423a-acf9-fb1ae8519b5c.png&x=45&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f55acbaf04d47abad7cb14fc097e2572d2b03e0.png)
 
 # Kako prevariti kupce?
 
