@@ -4,27 +4,27 @@ description: >-
   Manija sadnje smilja u Hercegovini je počela prije par godina. Veliki dio
   neobrađene zemlje ljudima je dao ideju da posade ovu biljnu kulturu koja je
   “bogom dana” za ovaj dio zemlje. 
-dateModified: '2017-10-10T08:46:27.321Z'
-datePublished: '2017-10-10T08:46:28.180Z'
-title: Kako i kome prodavati smilje na svjetskom tržištu 1/2
+dateModified: '2017-10-10T09:03:40.097Z'
+datePublished: '2017-10-10T09:03:41.508Z'
+title: Kako i kome prodavati smilje na svjetskom tržištu 1/3
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-10-10-kako-i-kome-prodavati-smilje-na-svjetskom-trzistu-12.md
 starred: false
 datePublishedOriginal: '2017-10-10T08:46:28.180Z'
-sourcePath: _posts/2017-10-10-kako-i-kome-prodavati-smilje-na-svjetskom-trzistu-12.md
 _type: Blurb
 
 ---
-# Kako i kome prodavati smilje na svjetskom tržištu 1/2
+# Kako i kome prodavati smilje na svjetskom tržištu 1/3
 
 Manija sadnje smilja u Hercegovini je počela prije par godina. Veliki dio neobrađene zemlje ljudima je dao ideju da posade ovu biljnu kulturu koja je "bogom dana" za ovaj dio zemlje. 
 
-Obilje sunca i čistog zraka je idealno za uzgoj smilja (cmilja) čije se ulje upotrebljava u farmaceutskoj i kozmetičkoj industriji. 
+Obilje sunca i čistog zraka je idealno za uzgoj smilja (cmilja) čije se eterično ulje upotrebljava u farmaceutskoj i kozmetičkoj industriji. 
 
 Inače za neupućene, nema vrhunske kreme za lice bez ulja od smilja. Na tržištu 1 litar ovoga ulje doseže cijenu i do 1000 € a i više, ovisno o količini koju kupujete.
 
-Otkupna cijena je u to vrijeme bila oko 7 KM, da bi danas došla oko 1 KM, i to ako uopće uspijete prodati.
+Otkupna cijena ubranog Smilja je u to vrijeme bila oko 7 KM/kg, da bi danas došla oko 1 KM, i to ako uopće uspijete prodati. Dakle, ulje su otkupljivale destilerije mogli ste i svoj urod pretvoriti u eterično ulje. Platite uslugu destilerijama i imate poluproizvod visoke vriejdnoti. Samo ga je treblo dalje prodati i dobro zaradit. Samo prodati :)
 
 Ne ulazeći u priče zavjere, vještačkog obaranja cijena i svega ostalog, pokušat ću navesti primjere kako ulje smilja prodavati putem interneta i kako doći do kupaca te kako razmišljanjem izaći iz naših lokalnih okvira.
 
@@ -47,10 +47,14 @@ Postoji nekoliko razloga i činjenica
 
 ## Proizvod
 
-Moramo poznavati osnove proizvoda i koliko je on u stvari stvarno kvalitetan te konkurentan. Proizvođači smilja u svijetu su Francuska, Italija, Malta, Grča, Sirija...dakle mediteranke zemlje koje imaju idealnu klimu za ovu biljnu kulturu. Sve ove zemlje imaju dugu tradiciju uzgoja i proizvodnje ove kulture. Koliko je naše ulje bolje od njihovog? Mnogi me uvjeravaju da je najbolje i stvarno i ne sumnjam ali to treba dokazati kupcima. A to je moguće jedino na način kemijske analize i potrebnih certifikata.
+Moramo poznavati osnove proizvoda i koliko je on u stvari stvarno kvalitetan te konkurentan. Proizvođači smilja u svijetu su Francuska, Italija, Malta, Grča,...dakle mediteranke zemlje koje imaju idealnu klimu za ovu biljnu kulturu. Sve ove zemlje imaju dugu tradiciju uzgoja i proizvodnje ove kulture. Koliko je naše ulje bolje od njihovog? Mnogi me uvjeravaju da je najbolje i stvarno i ne sumnjam ali to treba dokazati kupcima. A to je moguće jedino na način kemijske analize i potrebnih certifikata.
 
 ## Cijena
 
-Tržišna cijena ovoga ulja 
+Tržišna cijena ovoga ulja kreće se od 1.000 €/1L pa i više ovisno o količini. Eterično ulje Smilja je najskuplja komponenta u kremama i njegova cijena uveliko diktira cijenu krajnjeg proizvoda. Koliko smo u stanju spustiti cijenu i prodavati ulje to je pitanje proizvođača i otkupnih stanica. To je već strateško pitanje. Cijena je jedan od važnijih načina penetracije na tržište.
+
+## Distribucija
+
+Bilo da prodajete ulje u malim količinama ili velikim, osnova svega je u što ga i kako pakovati i sporučiti. Može li ulje koje prodajete za 1.000 € /1L, biti pakovano u neke obične boce. Te boce moraju imati i određenu boju oblik zbog iskoristljivosti u prevozi...i da ne nabrajam koliko ozbiljni morate biti u ovome. Pa proizvođači vina su ovo skužili prije 15 godina i počeli svoja vina prodavati za puno veću cijenu. Zašto to iskustvo ne preuzeti, nego morate ponovno prolaziti sve ispočetka.
 
 ## Prodaja običnim kupcima (B2C-Business to Customers)
