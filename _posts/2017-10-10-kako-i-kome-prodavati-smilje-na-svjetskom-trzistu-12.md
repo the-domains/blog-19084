@@ -5,8 +5,8 @@ description: >-
   izaći iz naših skučenih okvira i sagledati stvari kako bi uspjeli. Poslovati
   na svjetskom tržištu i nuditi ljudima na Zapadu svoje usluge je nešto potpuno
   drugačije.
-dateModified: '2017-10-10T13:43:31.064Z'
-datePublished: '2017-10-10T13:43:32.232Z'
+dateModified: '2017-10-10T13:52:22.124Z'
+datePublished: '2017-10-10T13:52:22.857Z'
 title: Kako i kome prodavati cvijeće koje nikada ne vene (1/2)
 author: []
 publisher: {}
@@ -130,7 +130,7 @@ Kako bi lakše objasnili promociju, potrebno je stvari sagledati u kontekstu de�
 
 Jer svi moji klijenti očekuju prodaju proizvoda koje oglašavaju. A kako bi prodaja bila uspješna postoji mnogo i drugih stvari koje moramo uzeti u obzir. Nastavak čitajte idući tjedan. :)
 
-Zaključak:
+## **Zaključak:**
 
 Može li Hercegovina zarađivati bolje od prodaje eteričnog ulja? 
 
@@ -138,16 +138,19 @@ Moglo bi se naravno ali to je jedan proces koji traje. Potrebno je da imamo jedn
 
 Kako bi sarajevski ćevapi bili poznati da nije čevabdžinica? To se nama dešava. Pravimo ulje ali ga nema u_tanjuru. _
 
+Ili, kako smo mi postali poznati po vinu. Kada smo promovirali vino kao krajnji proizvod naravno da smo i Žilavku i Blatinu promovirali uz to ali mnogo lakše.
+
+Potrebno je za početak da brendiramo smilje nama samima. Tko od vas iz hercegovine koji čitate ovaj tekst uopće ima neku kremu od smilja? Koliko vas ima barem litar domaćeg vina kod kuće? Za vino sam siguran. Ali za smilje baš i ne.
+
 Znači potreban nam je jedan dobar nacionalni kozmetički proizvod (krema za lice) koja podmlađuje i u kojoj je veliki postotak ulja od smilja. Kojeg ćemo brendirati i krenuti s prodajom. 
 
 Ne može me nitko ubijediti da nismo u stanju napraviti vrhunsku kremu za lice bolju i zdraviju od svih svjetskih proizvođača.
 
 Kada postanemo zemlja ili lokacija sa poznatom kremom od smilja, tada će i smilje postati dio nas a onda ćemo ga moći prodavati na jednostavniji način i po pravoj cijeni.
 
-1. [(Više o prodaji saznat ćete ako preuzmete našu knjigu "Kako poslavati na Internetu".)][4]
+U slijedećem nastavku pročitajte savjete kojim kanalima promovirati ulje od smilja.
 
 [0]: http://usa.loccitane.com/best-sellers,82,1,88413,1084231.htm
 [1]: http://alternativa-za-vas.com/index.php/clanak/article/smilje
 [2]: http://usa.loccitane.com/immortelle,82,1,29206,0.htm
 [3]: https://www.ebay.com/sch/i.html?_odkw=immortelle&rmvSB=true&_sop=3&_fspt=1&_mPrRngCbx=1&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Ximmortelle+oil.TRS0&_nkw=immortelle+oil&_sacat=0
-[4]: http://www.subscribepage.com/s9w4o2
