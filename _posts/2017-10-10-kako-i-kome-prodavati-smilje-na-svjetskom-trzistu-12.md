@@ -3,24 +3,30 @@ inFeed: true
 description: >-
   Manija sadnje smilja u Hercegovini je počela prije par godina. Veliki dio
   neobrađene zemlje ljudima je dao ideju da posade ovu biljnu kulturu koja je
-  “bogom dana” za ovaj dio zemlje.
-dateModified: '2017-10-10T10:27:18.372Z'
-datePublished: '2017-10-10T10:27:19.151Z'
+  “bogom dana” za ovaj dio zemlje. Obilje sunca i čistog zraka je idealno za
+  uzgoj smilja (cmilja) čije se eterično ulje upotrebljava u farmaceutskoj i
+  kozmetičkoj industriji.
+dateModified: '2017-10-10T10:28:24.345Z'
+datePublished: '2017-10-10T10:28:24.906Z'
 title: Kako i kome prodavati smilje na svjetskom tržištu (1/3)
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-10-10-kako-i-kome-prodavati-smilje-na-svjetskom-trzistu-12.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-10-10T10:27:19.151Z'
-_type: Blurb
+url: kako-i-kome-prodavati-smilje-na-svjetskom-trzistu-13/index.html
+_type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c55d78-f2b3-420f-81f3-6035c7b9c080.jpg)
+
 # Kako i kome prodavati smilje na svjetskom tržištu (1/3)
 
-Manija sadnje smilja u Hercegovini je počela prije par godina. Veliki dio neobrađene zemlje ljudima je dao ideju da posade ovu biljnu kulturu koja je "bogom dana" za ovaj dio zemlje.
+Manija sadnje smilja u Hercegovini je počela prije par godina. Veliki dio neobrađene zemlje ljudima je dao ideju da posade ovu biljnu kulturu koja je "bogom dana" za ovaj dio zemlje. Obilje sunca i čistog zraka je idealno za uzgoj smilja (cmilja) čije se eterično ulje upotrebljava u farmaceutskoj i kozmetičkoj industriji.
 
-Obilje sunca i čistog zraka je idealno za uzgoj smilja (cmilja) čije se eterično ulje upotrebljava u farmaceutskoj i kozmetičkoj industriji.
+---
 
 Inače za neupućene, nema vrhunske kreme za lice bez ulja od smilja. Na tržištu 1 litar ovoga ulje doseže cijenu i do 1000 € a i više, ovisno o količini koju kupujete.
 
