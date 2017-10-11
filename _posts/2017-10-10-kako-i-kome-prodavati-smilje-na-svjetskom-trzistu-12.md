@@ -5,8 +5,8 @@ description: >-
   izaći iz naših skučenih okvira i sagledati stvari kako bi uspjeli. Poslovati
   na svijetskom tržištu i nuditi ljudima na Zapadu svoje usluge je nešto potpuno
   drugačije.
-dateModified: '2017-10-11T07:50:27.548Z'
-datePublished: '2017-10-11T11:25:50.148Z'
+dateModified: '2017-10-11T11:35:25.457Z'
+datePublished: '2017-10-11T11:35:26.400Z'
 title: Kako i kome prodavati cvijeće koje nikada ne vene (1/2)
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ via: {}
 sourcePath: _posts/2017-10-10-kako-i-kome-prodavati-smilje-na-svjetskom-trzistu-12.md
 hasPage: true
 starred: false
-datePublishedOriginal: '2017-10-11T11:25:50.148Z'
+datePublishedOriginal: '2017-10-11T11:35:20.454Z'
 url: kako-i-kome-prodavati-cvijece-koje-nikada-ne-vene-12/index.html
 _type: Article
 
@@ -45,7 +45,7 @@ Pa tko ne bi ostao dugo godina mlad i lijep. Na tržištu 1 litar ovoga ulja dos
 
 E sada, kako to da "kopamo" zlato a ništa ne zarađujemo. Na ovo pitanje je teško odgovoriiti i ja mogu samo ponudiiti odgovor iz svog domena (Brendiranja i Internet marketinga) kojim se bavim i možda se dotaknuti nekih razmišljanja ali siguran sam da postoje stručniji ljudi od mene za mnoga pitanja oko smilja.
 
-Moram priznati da je bilo malo poslova koji vam već u prvoj godini garantiraju povrat uloženog novca kao što je to slučaj s uzgojenim smiljem.. Tako je bilo, ali danas je puno drugačije.
+Moram priznati da je bilo malo poslova koji vam već u prvoj godini garantiraju povrat uloženog novca kao što je to slučaj s uzgojem smilja. Tako je bilo, ali danas je puno drugačije.
 
 Otkupna cijena ubranog smilja je sa 7KM/1kg pala na 1KM/kg. Proizvođači nemaju više interesa saditi smilje a eterično ulje se sve više gomila na zalihama. Gdje je rješenje? Ako prepoznamo problem ali i realne mogućnosti i očekivanja, možda se i rješenje može pronaći.
 
@@ -136,17 +136,17 @@ Jer svi moji klijenti očekuju prodaju proizvoda koje oglašavaju. A kako bi pro
 
 ## **Zaključak:**
 
-Može li Hercegovina zarađivati bolje od prodaje eteričnog ulja?
+Može li Hercegovina zarađivati bolje od proizvodnje i prodaje prodaje eteričnog ulja smilja?
 
 Moglo bi se naravno ali to je jedan proces koji traje. Potrebno je da imamo jednu dobru domaću proizvodnju vrhunske kozmetike.
 
-Kako bi sarajevski ćevapi bili poznati da nije čevabdžinica? To se nama dešava. Pravimo ulje ali ga nema u_tanjuru. _
+Kako bi sarajevski ćevapi bili poznati da nije čevabdžinica? To se nama dešava. Pravimo ulje ali ga nema u_tanjuru._
 
 Ili, kako smo mi postali poznati po vinu. Kada smo promovirali vino kao krajnji proizvod naravno da smo i Žilavku i Blatinu promovirali uz to, ali mnogo lakše.
 
 Potrebno je za početak da brendiramo smilje nama samima. Tko od vas iz Hercegovine koji čitate ovaj tekst uopće ima neku kremu od smilja? Koliko vas ima barem litar domaćeg vina kod kuće? Za vino sam siguran. Ali za smilje baš i ne.
 
-Znači potreban nam je jedan dobar nacionalni kozmetički proizvod, krema za lice koja podmlađuje i u kojoj je veliki postotak ulja od smilja. Kojeg ćemo brendirati i krenuti s prodajom.
+Znači potreban nam je jedan dobar nacionalni kozmetički proizvod, krema za lice koja podmlađuje i u kojoj je veliki postotak ulja od smilja, kojeg ćemo brendirati i krenuti s prodajom.
 
 Ne može me nitko ubijediti da nismo u stanju napraviti vrhunsku kremu za lice bolju i zdraviju od svih svjetskih proizvođača.
 
