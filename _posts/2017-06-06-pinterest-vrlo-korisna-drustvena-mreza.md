@@ -1,8 +1,8 @@
 ---
 publisher:
   name: Connect Blog
-datePublished: '2017-07-19T12:54:18.570Z'
-dateModified: '2017-07-19T12:54:18.028Z'
+datePublished: '2017-10-11T11:36:11.541Z'
+dateModified: '2017-10-11T11:36:08.804Z'
 description: >-
   Danas postoji preko 200 društvenih mreža. Nekako je na kod nas najviše usvojen
   Facebook, a onda ga slijede Instagram, Twiter, LinkedIn, Google+…Ostale
