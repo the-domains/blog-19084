@@ -5,8 +5,8 @@ description: >-
   izaći iz naših skučenih okvira i sagledati stvari kako bi uspjeli. Poslovati
   na svijetskom tržištu i nuditi ljudima na Zapadu svoje usluge je nešto potpuno
   drugačije.
-dateModified: '2017-10-11T11:36:08.804Z'
-datePublished: '2017-10-11T11:36:11.506Z'
+dateModified: '2017-10-11T11:42:41.679Z'
+datePublished: '2017-10-11T11:42:42.572Z'
 title: Kako i kome prodavati cvijeće koje nikada ne vene (1/2)
 author: []
 publisher: {}
@@ -154,7 +154,11 @@ Kada postanemo zemlja ili lokacija sa poznatom kremom od smilja, tada će i smil
 
 U slijedećem nastavku pročitajte savjete kojim kanalima promovirati ulje od smilja.
 
+(Jeste li preuzeli beslpatnu knjigu "Kako poslovati na Internetu"?)
+[Preuzmi knjigu][4]
+
 [0]: http://usa.loccitane.com/best-sellers,82,1,88413,1084231.htm
 [1]: http://alternativa-za-vas.com/index.php/clanak/article/smilje
 [2]: http://usa.loccitane.com/immortelle,82,1,29206,0.htm
 [3]: https://www.ebay.com/sch/i.html?_odkw=immortelle&rmvSB=true&_sop=3&_fspt=1&_mPrRngCbx=1&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR0.TRC0.H0.Ximmortelle+oil.TRS0&_nkw=immortelle+oil&_sacat=0
+[4]: http://www.subscribepage.com/s9w4o2
