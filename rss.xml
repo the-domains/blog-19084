@@ -4,9 +4,16 @@
         <description><![CDATA[Blog tekstovi i naša iskustva]]></description>
         <link>http://blog.connect365.online/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Oct 2017 11:35:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2017 11:36:52 GMT</lastBuildDate>
         <atom:link href="http://blog.connect365.online/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 11 Oct 2017 11:35:27 GMT</pubDate>
+        <pubDate>Wed, 11 Oct 2017 11:36:26 GMT</pubDate>
+        <item>
+            <title><![CDATA[Kako i kome prodavati cvijeće koje nikada ne vene (1/2)]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18c55d78-f2b3-420f-81f3-6035c7b9c080.jpg">,<h1>Kako i kome prodavati <em>cvijeće koje nikada ne ven</em>e (1/2)</h1>,<p>Nevjerojatna je ova zemlja i ima jako puno potencijala. Problem je što moramo izaći iz naših skučenih okvira i sagledati stvari kako bi uspjeli. Poslovati na svijetskom tržištu i nuditi ljudima na <em>Zapadu</em> svoje usluge je nešto potpuno drugačije.</p>]]></description>
+            <link>http://blog.connect365.online/kako-i-kome-prodavati-cvijece-koje-nikada-ne-vene-12/index.html</link>
+            <guid isPermaLink="false">1a76010a-c3dc-42c8-b694-e7e6cf5f96c5</guid>
+            <pubDate>Wed, 11 Oct 2017 11:35:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Kako prevariti kupce?]]></title>
             <description><![CDATA[<h2>01./07/2017.</h2>,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3f55acbaf04d47abad7cb14fc097e2572d2b03e0.png">,<h1>Kako prevariti kupce?</h1>,<p>Ovaj naslov nema veze s prevarom, jer kupce je danas nemoguće prevariti tako da svi oni koji to pokušavaju ostave svaku nadu prvim klikom i izlaskom na internet.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://blog.connect365.online/kako-napisati-kvalitetan-sadrzaj-za-web-stranice/index.html</link>
             <guid isPermaLink="false">1be6efb3-b372-4cbf-8d3c-172147d0884a</guid>
             <pubDate>Wed, 15 Mar 2017 13:00:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Video Oglasi će Povećati Promet na Vašim Web Stranicama]]></title>
-            <description><![CDATA[<h3>01/12/2016.</h3>,<h1>Video Oglasi će Povećati Promet na Vašim Web Stranicama</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c3b4a95-f6e7-46ea-8080-af8def706d9f.jpg">,<p>Youtube je platforma za postavljanje video sadržaja i Google ga je kupio prije desetak godina. Poslije Google pretraživača on je najposjećenija stranica na svijetu. Svake minute se uploada 100 sati videa. Nevjerojatna količina materijala. Ne treba spominjati kako današnja generacija provodi veliki dio vremena na Youtube. Ogroman izvor zabave ali i znanja.</p>]]></description>
-            <link>http://blog.connect365.online/video-oglasi-ce-povecati-promet-na-vasim-web-stranicama/index.html</link>
-            <guid isPermaLink="false">3d7f7259-3cb3-4fbb-a044-92b0516e941d</guid>
-            <pubDate>Wed, 15 Mar 2017 13:17:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
