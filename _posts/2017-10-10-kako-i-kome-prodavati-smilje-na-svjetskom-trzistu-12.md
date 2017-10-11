@@ -5,8 +5,8 @@ description: >-
   izaći iz naših skučenih okvira i sagledati stvari kako bi uspjeli. Poslovati
   na svijetskom tržištu i nuditi ljudima na Zapadu svoje usluge je nešto potpuno
   drugačije.
-dateModified: '2017-10-11T11:35:25.457Z'
-datePublished: '2017-10-11T11:35:26.400Z'
+dateModified: '2017-10-11T11:36:08.804Z'
+datePublished: '2017-10-11T11:36:11.506Z'
 title: Kako i kome prodavati cvijeće koje nikada ne vene (1/2)
 author: []
 publisher: {}
